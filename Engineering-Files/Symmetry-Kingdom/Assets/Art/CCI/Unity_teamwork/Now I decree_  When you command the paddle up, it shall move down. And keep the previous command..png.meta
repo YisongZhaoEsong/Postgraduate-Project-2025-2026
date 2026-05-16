@@ -1,0 +1,1993 @@
+fileFormatVersion: 2
+guid: 6865d8e9a88327c4db2066ce495cf51d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6766819477395411228
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._0"
+  - first:
+      213: 2971198721138778533
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._1"
+  - first:
+      213: 8893984231778401633
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._2"
+  - first:
+      213: -4479503221657388728
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._3"
+  - first:
+      213: 7348798203820910154
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._4"
+  - first:
+      213: -8791510893450630366
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._5"
+  - first:
+      213: 4227987201220332319
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._6"
+  - first:
+      213: 4581127250959345095
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._7"
+  - first:
+      213: 3261395285890579893
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._8"
+  - first:
+      213: 2297091725263607019
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._9"
+  - first:
+      213: 6268708650669215222
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._10"
+  - first:
+      213: 8766859143872305397
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._11"
+  - first:
+      213: -3220164510111994718
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._12"
+  - first:
+      213: -1769832089907288349
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._13"
+  - first:
+      213: 5789740709926215191
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._14"
+  - first:
+      213: -8081432328149537724
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._15"
+  - first:
+      213: 1938703818139389922
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._16"
+  - first:
+      213: -3722050840346551130
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._17"
+  - first:
+      213: 5371248851455831438
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._18"
+  - first:
+      213: -2533387516634568896
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._19"
+  - first:
+      213: 5433750713233806978
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._20"
+  - first:
+      213: 3768883321495309260
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._21"
+  - first:
+      213: 8999957450557939060
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._22"
+  - first:
+      213: 3674804518843756403
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._23"
+  - first:
+      213: 7589022718690819741
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._24"
+  - first:
+      213: -2095450817729712524
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._25"
+  - first:
+      213: -2713226648647592162
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._26"
+  - first:
+      213: 6008068406679915192
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._27"
+  - first:
+      213: -7640867841720980835
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._28"
+  - first:
+      213: 3841909991172402202
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._29"
+  - first:
+      213: 956988727320638925
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._30"
+  - first:
+      213: -7581772352265258195
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._31"
+  - first:
+      213: -4024858595586399520
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._32"
+  - first:
+      213: -7871372090385674576
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._33"
+  - first:
+      213: 8917145271848071018
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._34"
+  - first:
+      213: 7223794783821489955
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._35"
+  - first:
+      213: -5354744575540280323
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._36"
+  - first:
+      213: 1383559327028176703
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._37"
+  - first:
+      213: 1726730843378951166
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._38"
+  - first:
+      213: -2012316595625200558
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._39"
+  - first:
+      213: -8342128540805212996
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._40"
+  - first:
+      213: -8172215119544292542
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._41"
+  - first:
+      213: -4638886952061584670
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._42"
+  - first:
+      213: -6549710694159189647
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._43"
+  - first:
+      213: 8380003030327289270
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._44"
+  - first:
+      213: 2746510127039471969
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._45"
+  - first:
+      213: -1744163167509039362
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._46"
+  - first:
+      213: -9067785059854854967
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._47"
+  - first:
+      213: -2905165357345537623
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._48"
+  - first:
+      213: -6753424171401170708
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._49"
+  - first:
+      213: -1464054059763187485
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._50"
+  - first:
+      213: 6839423481164502624
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._51"
+  - first:
+      213: 8470310329347546020
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._52"
+  - first:
+      213: 239744961349039063
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._53"
+  - first:
+      213: 7529201566631576381
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._54"
+  - first:
+      213: 1017280193512123771
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._55"
+  - first:
+      213: -2382925796813068592
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._56"
+  - first:
+      213: -6141044201148169700
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._57"
+  - first:
+      213: 7121495777909486293
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._58"
+  - first:
+      213: -8907112042105786221
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._59"
+  - first:
+      213: -2697410244801790842
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._60"
+  - first:
+      213: -181725999044757035
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._61"
+  - first:
+      213: 4940007939978539131
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._62"
+  - first:
+      213: -2082578914152382545
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._63"
+  - first:
+      213: -1251707982217328271
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._64"
+  - first:
+      213: -8429370621720118467
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._65"
+  - first:
+      213: 3820610353703164383
+    second: "Now I decree_\L When you command the paddle up, it shall move down.
+      And keep the previous command._66"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._0"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eee6a6998d6712a0800000000000000
+      internalID: -6766819477395411228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._1"
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 464
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1629aae71db3920800000000000000
+      internalID: 2971198721138778533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._2"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 461
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16db3155987cd6b70800000000000000
+      internalID: 8893984231778401633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._3"
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 461
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849b4e6ad8b95d1c0800000000000000
+      internalID: -4479503221657388728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._4"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 463
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4626c0e70d2cf560800000000000000
+      internalID: 7348798203820910154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._5"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 463
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22be5ecfb674ef580800000000000000
+      internalID: -8791510893450630366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._6"
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 478
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bc2ab65f3dcaa30800000000000000
+      internalID: 4227987201220332319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._7"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c52b4086fe639f30800000000000000
+      internalID: 4581127250959345095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._8"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 347
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd34af9bbdc24d20800000000000000
+      internalID: 3261395285890579893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._9"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 350
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be493dce0c8e0ef10800000000000000
+      internalID: 2297091725263607019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._10"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 352
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd8e830e4deef650800000000000000
+      internalID: 6268708650669215222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._11"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8d46a41f32aa970800000000000000
+      internalID: 8766859143872305397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._12"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 313
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac6470707daf43d0800000000000000
+      internalID: -3220164510111994718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._13"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 352
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e62df8571b4077e0800000000000000
+      internalID: -1769832089907288349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._14"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 352
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e15c4108a495050800000000000000
+      internalID: 5789740709926215191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._15"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 353
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ce9446d1cf8df80800000000000000
+      internalID: -8081432328149537724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._16"
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 353
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef44e4d9d8a7ea10800000000000000
+      internalID: 1938703818139389922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._17"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac13312b7e985cc0800000000000000
+      internalID: -3722050840346551130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._18"
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 352
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8def3f4f528a8a40800000000000000
+      internalID: 5371248851455831438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._19"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 350
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0476690e97997dcd0800000000000000
+      internalID: -2533387516634568896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28693540c7f886b40800000000000000
+      internalID: 5433750713233806978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._21"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 221
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb4f999963cd4430800000000000000
+      internalID: 3768883321495309260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._22"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 239
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dd2221e9546ec70800000000000000
+      internalID: 8999957450557939060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._23"
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 239
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37faeac6d378ff230800000000000000
+      internalID: 3674804518843756403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._24"
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 241
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e7feb44ff915960800000000000000
+      internalID: 7589022718690819741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._25"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 241
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e2bec55967be2e0800000000000000
+      internalID: -2095450817729712524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._26"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 221
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e179c340dbea85ad0800000000000000
+      internalID: -2713226648647592162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._27"
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 273
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba476e3262f06350800000000000000
+      internalID: 6008068406679915192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._28"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ae3865e2f26f590800000000000000
+      internalID: -7640867841720980835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._29"
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 240
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ceada18c4315530800000000000000
+      internalID: 3841909991172402202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._30"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 239
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5fff95d28e74d00800000000000000
+      internalID: 956988727320638925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._31"
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 241
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bf95f273228c690800000000000000
+      internalID: -7581772352265258195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._32"
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 241
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e225e29e64d428c0800000000000000
+      internalID: -4024858595586399520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._33"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 241
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be43a1c9c443c290800000000000000
+      internalID: -7871372090385674576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._34"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 241
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fee03316010cb70800000000000000
+      internalID: 8917145271848071018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._35"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 241
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327eff32513104460800000000000000
+      internalID: 7223794783821489955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._36"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 237
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3c8ffdd2020b5b0800000000000000
+      internalID: -5354744575540280323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._37"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 241
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f376135a0e3633310800000000000000
+      internalID: 1383559327028176703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._38"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 241
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3205ead8496f710800000000000000
+      internalID: 1726730843378951166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._39"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254f22ec7b0d214e0800000000000000
+      internalID: -2012316595625200558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._40"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 130
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb458a66a4eca3c80800000000000000
+      internalID: -8342128540805212996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._41"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 130
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b6c73a5a5769e80800000000000000
+      internalID: -8172215119544292542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._42"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 128
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eabc2d15ec5f9fb0800000000000000
+      internalID: -4638886952061584670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._43"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 131
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179701553d0ca15a0800000000000000
+      internalID: -6549710694159189647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._44"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 130
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5ea5f5b50cb4470800000000000000
+      internalID: 8380003030327289270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._45"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 130
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161633ea8609d1620800000000000000
+      internalID: 2746510127039471969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._46"
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 131
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6bd4217dc7bc7e0800000000000000
+      internalID: -1744163167509039362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._47"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 123
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4d1cff781c82280800000000000000
+      internalID: -9067785059854854967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._48"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 128
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a106adef77cea7d0800000000000000
+      internalID: -2905165357345537623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._49"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 124
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0b81e4f740742a0800000000000000
+      internalID: -6753424171401170708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._50"
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 130
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0c8dbe692aeabe0800000000000000
+      internalID: -1464054059763187485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._51"
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 110
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06696475b638aee50800000000000000
+      internalID: 6839423481164502624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._52"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab151eed569c8570800000000000000
+      internalID: 8470310329347546020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._53"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d336e9a5ceb35300800000000000000
+      internalID: 239744961349039063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._54"
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 19
+        width: 75
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33c365fee81d7860800000000000000
+      internalID: 7529201566631576381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._55"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 51
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7da45b32fa1e1e00800000000000000
+      internalID: 1017280193512123771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._56"
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 20
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6a7d2fc952eeed0800000000000000
+      internalID: -2382925796813068592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._57"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 18
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c124790f5d0a6caa0800000000000000
+      internalID: -6141044201148169700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._58"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 19
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d23dbfbda2a4d260800000000000000
+      internalID: 7121495777909486293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._59"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 19
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3903ea32ac4936480800000000000000
+      internalID: -8907112042105786221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._60"
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 19
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cf6118cafd09ad0800000000000000
+      internalID: -2697410244801790842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._61"
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 18
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9fb7caa216a7df0800000000000000
+      internalID: -181725999044757035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._62"
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 16
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70b7025c0f6e8440800000000000000
+      internalID: 4940007939978539131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._63"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 19
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf7a35f2813913e0800000000000000
+      internalID: -2082578914152382545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._64"
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 18
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1794a65d83a01aee0800000000000000
+      internalID: -1251707982217328271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._65"
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 19
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b324c841cd40b80800000000000000
+      internalID: -8429370621720118467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I decree_\L When you command the paddle up, it shall move down.
+        And keep the previous command._66"
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd918adcfd8850530800000000000000
+      internalID: 3820610353703164383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._0": -6766819477395411228
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._1": 2971198721138778533
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._10": 6268708650669215222
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._11": 8766859143872305397
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._12": -3220164510111994718
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._13": -1769832089907288349
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._14": 5789740709926215191
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._15": -8081432328149537724
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._16": 1938703818139389922
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._17": -3722050840346551130
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._18": 5371248851455831438
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._19": -2533387516634568896
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._2": 8893984231778401633
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._20": 5433750713233806978
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._21": 3768883321495309260
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._22": 8999957450557939060
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._23": 3674804518843756403
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._24": 7589022718690819741
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._25": -2095450817729712524
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._26": -2713226648647592162
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._27": 6008068406679915192
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._28": -7640867841720980835
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._29": 3841909991172402202
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._3": -4479503221657388728
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._30": 956988727320638925
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._31": -7581772352265258195
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._32": -4024858595586399520
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._33": -7871372090385674576
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._34": 8917145271848071018
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._35": 7223794783821489955
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._36": -5354744575540280323
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._37": 1383559327028176703
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._38": 1726730843378951166
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._39": -2012316595625200558
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._4": 7348798203820910154
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._40": -8342128540805212996
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._41": -8172215119544292542
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._42": -4638886952061584670
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._43": -6549710694159189647
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._44": 8380003030327289270
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._45": 2746510127039471969
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._46": -1744163167509039362
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._47": -9067785059854854967
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._48": -2905165357345537623
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._49": -6753424171401170708
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._5": -8791510893450630366
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._50": -1464054059763187485
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._51": 6839423481164502624
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._52": 8470310329347546020
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._53": 239744961349039063
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._54": 7529201566631576381
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._55": 1017280193512123771
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._56": -2382925796813068592
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._57": -6141044201148169700
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._58": 7121495777909486293
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._59": -8907112042105786221
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._6": 4227987201220332319
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._60": -2697410244801790842
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._61": -181725999044757035
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._62": 4940007939978539131
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._63": -2082578914152382545
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._64": -1251707982217328271
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._65": -8429370621720118467
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._66": 3820610353703164383
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._7": 4581127250959345095
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._8": 3261395285890579893
+      "Now I decree_\L When you command the paddle up, it shall move down. And keep the previous command._9": 2297091725263607019
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

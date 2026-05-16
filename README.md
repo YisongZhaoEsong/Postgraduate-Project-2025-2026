@@ -11,8 +11,8 @@ It organizes my project repositories into two groups:
 
 | Project | Casebook | Engineering Files |
 | --- | --- | --- |
-| Symmetry Kingdom | [Symmetry-Kingdom-Casebook](https://github.com/YisongZhaoEsong/Symmetry-Kingdom-Casebook) | [Symmetry-Kingdom](https://github.com/YisongZhaoEsong/Symmetry-Kingdom) |
-| Hidden Bites | [Hidden-Bites-Casebook](https://github.com/YisongZhaoEsong/Hidden-Bites-Casebook) | [Hidden-Bites](https://github.com/YisongZhaoEsong/Hidden-Bites) |
+| Symmetry Kingdom | [Symmetry-Kingdom-Casebook](Project-Casebooks/Symmetry-Kingdom-Casebook) | [Symmetry-Kingdom](Engineering-Files/Symmetry-Kingdom) |
+| Hidden Bites | [Hidden-Bites-Casebook](Project-Casebooks/Hidden-Bites-Casebook) | [Hidden-Bites](Engineering-Files/Hidden-Bites) |
 
 ## Folders
 

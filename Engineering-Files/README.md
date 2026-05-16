@@ -4,7 +4,7 @@ This folder links to the technical and implementation repositories for each post
 
 ## Engineering Repositories
 
-| Project | Engineering Repository |
+| Project | Engineering Folder |
 | --- | --- |
-| Symmetry Kingdom | [Symmetry-Kingdom](https://github.com/YisongZhaoEsong/Symmetry-Kingdom) |
-| Hidden Bites | [Hidden-Bites](https://github.com/YisongZhaoEsong/Hidden-Bites) |
+| Symmetry Kingdom | [Symmetry-Kingdom](Symmetry-Kingdom) |
+| Hidden Bites | [Hidden-Bites](Hidden-Bites) |

@@ -4,7 +4,7 @@ This folder links to the written casebook documentation for each postgraduate pr
 
 ## Casebook Repositories
 
-| Project | Casebook Repository |
+| Project | Casebook Folder |
 | --- | --- |
-| Symmetry Kingdom | [Symmetry-Kingdom-Casebook](https://github.com/YisongZhaoEsong/Symmetry-Kingdom-Casebook) |
-| Hidden Bites | [Hidden-Bites-Casebook](https://github.com/YisongZhaoEsong/Hidden-Bites-Casebook) |
+| Symmetry Kingdom | [Symmetry-Kingdom-Casebook](Symmetry-Kingdom-Casebook) |
+| Hidden Bites | [Hidden-Bites-Casebook](Hidden-Bites-Casebook) |

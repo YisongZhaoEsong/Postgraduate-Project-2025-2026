@@ -1,0 +1,2049 @@
+fileFormatVersion: 2
+guid: 33e87aa6cf952d44683595d7a363ef1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9198240102206082603
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._0"
+  - first:
+      213: -7358680447937125848
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._1"
+  - first:
+      213: -8966329662700956381
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._2"
+  - first:
+      213: 5737414147148977094
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._3"
+  - first:
+      213: 4465255552025612771
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._4"
+  - first:
+      213: -2238738197503313157
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._5"
+  - first:
+      213: 971574209055567573
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._6"
+  - first:
+      213: -8989947229480337296
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._7"
+  - first:
+      213: -2365588711745547313
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._8"
+  - first:
+      213: -7749695534622313743
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._9"
+  - first:
+      213: -3284797995419646243
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._10"
+  - first:
+      213: 7518094648230495369
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._11"
+  - first:
+      213: 6032682435032064931
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._12"
+  - first:
+      213: 3433475940211033971
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._13"
+  - first:
+      213: -9111060454660520080
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._14"
+  - first:
+      213: -6743243297228780428
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._15"
+  - first:
+      213: -984431229219556429
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._16"
+  - first:
+      213: 4490415074754509502
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._17"
+  - first:
+      213: -4538676093611228420
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._18"
+  - first:
+      213: 2509073758187534319
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._19"
+  - first:
+      213: 1377463237970385171
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._20"
+  - first:
+      213: 7610788888349312511
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._21"
+  - first:
+      213: 9026256992861621513
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._22"
+  - first:
+      213: 1645573208600947743
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._23"
+  - first:
+      213: -6677555338690340184
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._24"
+  - first:
+      213: 6937799292560705336
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._25"
+  - first:
+      213: -7380081570012186018
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._26"
+  - first:
+      213: -6144124896540189623
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._27"
+  - first:
+      213: -8252912265832382733
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._28"
+  - first:
+      213: 8304755601327907563
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._29"
+  - first:
+      213: -1427247815851344470
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._30"
+  - first:
+      213: 5656455628015829032
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._31"
+  - first:
+      213: -5773591875863250603
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._32"
+  - first:
+      213: 2823724095379362819
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._33"
+  - first:
+      213: 8443344276744744147
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._34"
+  - first:
+      213: 1303617438904248200
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._35"
+  - first:
+      213: -898700011537697844
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._36"
+  - first:
+      213: 3140629284961317770
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._37"
+  - first:
+      213: 2686576962750824206
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._38"
+  - first:
+      213: -8043055449003085971
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._39"
+  - first:
+      213: -739587575061682712
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._40"
+  - first:
+      213: 6295440740058229143
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._41"
+  - first:
+      213: -3655107229320752983
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._42"
+  - first:
+      213: -3885362747151603746
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._43"
+  - first:
+      213: 3692483148929690057
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._44"
+  - first:
+      213: 2698380305422261474
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._45"
+  - first:
+      213: -5741193646018089715
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._46"
+  - first:
+      213: 6362955749091681097
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._47"
+  - first:
+      213: 8832243854058427195
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._48"
+  - first:
+      213: -2722312770053528010
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._49"
+  - first:
+      213: -496803230491512450
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._50"
+  - first:
+      213: -3520676034203794535
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._51"
+  - first:
+      213: -5725730442818085958
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._52"
+  - first:
+      213: -3401839582741137934
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._53"
+  - first:
+      213: -3593883490001988040
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._54"
+  - first:
+      213: 7167238584776460006
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._55"
+  - first:
+      213: -8150141364332395598
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._56"
+  - first:
+      213: -2117945911008727948
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._57"
+  - first:
+      213: 965014383088037361
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._58"
+  - first:
+      213: -3971009506025809450
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._59"
+  - first:
+      213: -5837178038620185970
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._60"
+  - first:
+      213: 7126895710307927109
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._61"
+  - first:
+      213: 3435172767472044614
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._62"
+  - first:
+      213: 684522567116079641
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._63"
+  - first:
+      213: 4165629499258348300
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._64"
+  - first:
+      213: 750130669351865150
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._65"
+  - first:
+      213: -2581554142211377266
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._66"
+  - first:
+      213: -8487185093357709886
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._67"
+  - first:
+      213: 212390875109588688
+    second: "Now the gravity of the ball has changed,\L and its angle of rebound
+      is no longer the same. And keep the previous command._68"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._0"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 465
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e0fba73a6b6af70800000000000000
+      internalID: 9198240102206082603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._1"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 467
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822681dde17b0e990800000000000000
+      internalID: -7358680447937125848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._2"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 435
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32559ab6da2319380800000000000000
+      internalID: -8966329662700956381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._3"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 468
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c39d1ac4c36f9f40800000000000000
+      internalID: 5737414147148977094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._4"
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 496
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1d3d14446c7fd30800000000000000
+      internalID: 4465255552025612771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._5"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 436
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa77b088776ee0e0800000000000000
+      internalID: -2238738197503313157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._6"
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 447
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de20b37899bb7d00800000000000000
+      internalID: 971574209055567573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._7"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 467
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070415520aa4d3380800000000000000
+      internalID: -8989947229480337296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._8"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 469
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc39bbf999dbb2fd0800000000000000
+      internalID: -2365588711745547313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._9"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 469
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2f76d88fc837490800000000000000
+      internalID: -7749695534622313743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 373
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6c81470ad0a62d0800000000000000
+      internalID: -3284797995419646243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._11"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 375
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9844b8fff33a55860800000000000000
+      internalID: 7518094648230495369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._12"
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 375
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a323de46b468b350800000000000000
+      internalID: 6032682435032064931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._13"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 375
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37701212d2826af20800000000000000
+      internalID: 3433475940211033971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._14"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 373
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077c9d8f9c20f8180800000000000000
+      internalID: -9111060454660520080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._15"
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 374
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c05aac2ff2b62a0800000000000000
+      internalID: -6743243297228780428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._16"
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 375
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3319443099652f0800000000000000
+      internalID: -984431229219556429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._17"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 373
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba3dc028b8215e30800000000000000
+      internalID: 4490415074754509502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._18"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 375
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2ceb9c3226301c0800000000000000
+      internalID: -4538676093611228420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._19"
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 342
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7b5081a4502d220800000000000000
+      internalID: 2509073758187534319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._20"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 372
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319526e448bbd1310800000000000000
+      internalID: 1377463237970385171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._21"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 282
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff50d869b24fe9960800000000000000
+      internalID: 7610788888349312511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._22"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 281
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d07ee69e4b34d70800000000000000
+      internalID: 9026256992861621513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._23"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 280
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c2f865d1046d610800000000000000
+      internalID: 1645573208600947743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._24"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 308
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa59557cce8453a0800000000000000
+      internalID: -6677555338690340184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._25"
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 281
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8378904d2b3084060800000000000000
+      internalID: 6937799292560705336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._26"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 282
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a3406d9eea49990800000000000000
+      internalID: -7380081570012186018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._27"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 248
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c9616a5feabbaa0800000000000000
+      internalID: -6144124896540189623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._28"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 281
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3feb8902504c77d80800000000000000
+      internalID: -8252912265832382733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._29"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 260
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2e59b083b604370800000000000000
+      internalID: 8304755601327907563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._30"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 280
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad7ab16ca5613ce0800000000000000
+      internalID: -1427247815851344470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._31"
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 282
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82084abac64cf7e40800000000000000
+      internalID: 5656455628015829032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._32"
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 281
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559f61957c410efa0800000000000000
+      internalID: -5773591875863250603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._33"
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 281
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3045cc0aa12ef2720800000000000000
+      internalID: 2823724095379362819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._34"
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 280
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dca2bb82e8cc2570800000000000000
+      internalID: 8443344276744744147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._35"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 281
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88764e06721671210800000000000000
+      internalID: 1303617438904248200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._36"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3f7acd91d2783f0800000000000000
+      internalID: -898700011537697844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._37"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 215
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83fe45e1b1c59b20800000000000000
+      internalID: 3140629284961317770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._38"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 188
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fb2867383a84520800000000000000
+      internalID: 2686576962750824206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._39"
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 189
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fa66ddea3516090800000000000000
+      internalID: -8043055449003085971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._40"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 188
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5e72cd4057cb5f0800000000000000
+      internalID: -739587575061682712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._41"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 189
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79961b79ff5ed5750800000000000000
+      internalID: 6295440740058229143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._42"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 154
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0df5c2753764dc0800000000000000
+      internalID: -3655107229320752983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._43"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 188
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed72e70ca2b641ac0800000000000000
+      internalID: -3885362747151603746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._44"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 186
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9e11f3cd55e3330800000000000000
+      internalID: 3692483148929690057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._45"
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 187
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec9a955792927520800000000000000
+      internalID: 2698380305422261474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._46"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 188
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dac5e0cce2350b0800000000000000
+      internalID: -5741193646018089715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._47"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 188
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943a32a9a82cd4850800000000000000
+      internalID: 6362955749091681097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._48"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 188
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3397c27dfe629a70800000000000000
+      internalID: 8832243854058427195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._49"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 188
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636237585f6683ad0800000000000000
+      internalID: -2722312770053528010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._50"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 188
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71794318100b19f0800000000000000
+      internalID: -496803230491512450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._51"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9934d0cdccb042fc0800000000000000
+      internalID: -3520676034203794535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._52"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 92
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb103c9f7e1a80b0800000000000000
+      internalID: -5725730442818085958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._53"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 89
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5f9d75cec3ac0d0800000000000000
+      internalID: -3401839582741137934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._54"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 77
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8365a4ec106ff1ec0800000000000000
+      internalID: -3593883490001988040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._55"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 92
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6031ae485277360800000000000000
+      internalID: 7167238584776460006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._56"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 94
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b300c54c91e4ee80800000000000000
+      internalID: -8150141364332395598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._57"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 77
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c65d05a6b8b92e0800000000000000
+      internalID: -2117945911008727948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._58"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 94
+        width: 68
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdea13f77b646d00800000000000000
+      internalID: 965014383088037361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._59"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 121
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9d1a1c4e324e8c0800000000000000
+      internalID: -3971009506025809450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._60"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 95
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a1555208d2efea0800000000000000
+      internalID: -5837178038620185970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._61"
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 94
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544c82c73e1d7e260800000000000000
+      internalID: 7126895710307927109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._62"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 93
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a44438e6f2caf20800000000000000
+      internalID: 3435172767472044614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._63"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91241b5e5a9ef7900800000000000000
+      internalID: 684522567116079641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._64"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03ae2985f94fc930800000000000000
+      internalID: 4165629499258348300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._65"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b08d19edff86a00800000000000000
+      internalID: 750130669351865150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._66"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e877d017f2a7c2cd0800000000000000
+      internalID: -2581554142211377266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._67"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c55c67ef16773a80800000000000000
+      internalID: -8487185093357709886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now the gravity of the ball has changed,\L and its angle of rebound
+        is no longer the same. And keep the previous command._68"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0def078206092f200800000000000000
+      internalID: 212390875109588688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._0": 9198240102206082603
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._1": -7358680447937125848
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._10": -3284797995419646243
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._11": 7518094648230495369
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._12": 6032682435032064931
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._13": 3433475940211033971
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._14": -9111060454660520080
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._15": -6743243297228780428
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._16": -984431229219556429
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._17": 4490415074754509502
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._18": -4538676093611228420
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._19": 2509073758187534319
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._2": -8966329662700956381
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._20": 1377463237970385171
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._21": 7610788888349312511
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._22": 9026256992861621513
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._23": 1645573208600947743
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._24": -6677555338690340184
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._25": 6937799292560705336
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._26": -7380081570012186018
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._27": -6144124896540189623
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._28": -8252912265832382733
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._29": 8304755601327907563
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._3": 5737414147148977094
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._30": -1427247815851344470
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._31": 5656455628015829032
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._32": -5773591875863250603
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._33": 2823724095379362819
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._34": 8443344276744744147
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._35": 1303617438904248200
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._36": -898700011537697844
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._37": 3140629284961317770
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._38": 2686576962750824206
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._39": -8043055449003085971
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._4": 4465255552025612771
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._40": -739587575061682712
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._41": 6295440740058229143
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._42": -3655107229320752983
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._43": -3885362747151603746
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._44": 3692483148929690057
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._45": 2698380305422261474
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._46": -5741193646018089715
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._47": 6362955749091681097
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._48": 8832243854058427195
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._49": -2722312770053528010
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._5": -2238738197503313157
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._50": -496803230491512450
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._51": -3520676034203794535
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._52": -5725730442818085958
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._53": -3401839582741137934
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._54": -3593883490001988040
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._55": 7167238584776460006
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._56": -8150141364332395598
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._57": -2117945911008727948
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._58": 965014383088037361
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._59": -3971009506025809450
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._6": 971574209055567573
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._60": -5837178038620185970
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._61": 7126895710307927109
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._62": 3435172767472044614
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._63": 684522567116079641
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._64": 4165629499258348300
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._65": 750130669351865150
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._66": -2581554142211377266
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._67": -8487185093357709886
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._68": 212390875109588688
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._7": -8989947229480337296
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._8": -2365588711745547313
+      "Now the gravity of the ball has changed,\L and its angle of rebound is no longer the same. And keep the previous command._9": -7749695534622313743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

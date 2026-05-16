@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: ae84efa101b41b8439faaa7f76151f64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -608655025262024282
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._0"
+  - first:
+      213: -4607145454630849099
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._1"
+  - first:
+      213: -131592508045876101
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._2"
+  - first:
+      213: 5425364906901593278
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._3"
+  - first:
+      213: -7879006565690607112
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._4"
+  - first:
+      213: -2976811393729441243
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._5"
+  - first:
+      213: -6562040156889157051
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._6"
+  - first:
+      213: 9084649950618264256
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._7"
+  - first:
+      213: 3016589008117516020
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._8"
+  - first:
+      213: -3995064194072862070
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._9"
+  - first:
+      213: -7918906420406175392
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._10"
+  - first:
+      213: 2730758173846801679
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._11"
+  - first:
+      213: 3319977061656528212
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._12"
+  - first:
+      213: -6327629443056508413
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._13"
+  - first:
+      213: -5767274053899417516
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._14"
+  - first:
+      213: 9074793608390040686
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._15"
+  - first:
+      213: 65087846345185451
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._16"
+  - first:
+      213: 5950834800616242666
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._17"
+  - first:
+      213: 3261751496105165123
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._18"
+  - first:
+      213: -9097292325500548616
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._19"
+  - first:
+      213: 5671903368273740499
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._20"
+  - first:
+      213: -6873309098801344012
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._21"
+  - first:
+      213: -170051304037895813
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._22"
+  - first:
+      213: 756417427199464927
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._23"
+  - first:
+      213: 3723318541914854469
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._24"
+  - first:
+      213: -7446331261958319618
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._25"
+  - first:
+      213: -9157856363175291628
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._26"
+  - first:
+      213: -1807888132562911203
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._27"
+  - first:
+      213: -4892056099691684758
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._28"
+  - first:
+      213: 2695285851776777199
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._29"
+  - first:
+      213: -3832014123085310563
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._30"
+  - first:
+      213: -967443802093775673
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._31"
+  - first:
+      213: 9220202803871423995
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._32"
+  - first:
+      213: 6819883837849862817
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._33"
+  - first:
+      213: 6619786706385333686
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._34"
+  - first:
+      213: 8835788190692618459
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._35"
+  - first:
+      213: 4206704449532157640
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._36"
+  - first:
+      213: 1947430732606020765
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._37"
+  - first:
+      213: 3448325735884736867
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._38"
+  - first:
+      213: -8592617351080054594
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._39"
+  - first:
+      213: -177784368812923888
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._40"
+  - first:
+      213: 2858147044330829365
+    second: "Now I order to add obstacles that block the ball\u2019s trajectory._41"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._0"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 448
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a92084ba7f9d87f0800000000000000
+      internalID: -608655025262024282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._1"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 454
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b53c246e912010c0800000000000000
+      internalID: -4607145454630849099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._2"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 450
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74a2d6af4d7c2ef0800000000000000
+      internalID: -131592508045876101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._3"
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 454
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc5db453a4ca4b40800000000000000
+      internalID: 5425364906901593278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._4"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 450
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f97a05f54528a290800000000000000
+      internalID: -7879006565690607112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._5"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 453
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522db692fcd30b6d0800000000000000
+      internalID: -2976811393729441243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._6"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 454
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542f5c69e33fee4a0800000000000000
+      internalID: -6562040156889157051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._7"
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 452
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c22f5f5ff8231e70800000000000000
+      internalID: 9084649950618264256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6413668b31dd920800000000000000
+      internalID: 3016589008117516020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._9"
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 315
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82a761484eae88c0800000000000000
+      internalID: -3995064194072862070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._10"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 315
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069312a11946a1290800000000000000
+      internalID: -7918906420406175392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._11"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 319
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d02a7471a95e520800000000000000
+      internalID: 2730758173846801679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._12"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 316
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4558b7e2c8de21e20800000000000000
+      internalID: 3319977061656528212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._13"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 317
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3026058fb8ebf28a0800000000000000
+      internalID: -6327629443056508413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._14"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 317
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4588ff6edc686ffa0800000000000000
+      internalID: -5767274053899417516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._15"
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 319
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cd21ed4b420fd70800000000000000
+      internalID: 9074793608390040686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._16"
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 318
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba899982d0d37e000800000000000000
+      internalID: 65087846345185451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._17"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 318
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed73c7e8bc959250800000000000000
+      internalID: 5950834800616242666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._18"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 318
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34182f644b1144d20800000000000000
+      internalID: 3261751496105165123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._19"
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 317
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f907a854dcefb180800000000000000
+      internalID: -9097292325500548616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._20"
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 315
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d24c4aff06a6be40800000000000000
+      internalID: 5671903368273740499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._21"
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 319
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f15c7e7ac91d90a0800000000000000
+      internalID: -6873309098801344012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._22"
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 317
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71ba3d6d3bd3adf0800000000000000
+      internalID: -170051304037895813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._23"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5932274a55f7a00800000000000000
+      internalID: 756417427199464927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._24"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 183
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544d574ac72eba330800000000000000
+      internalID: 3723318541914854469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._25"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 184
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1961b6b2159a890800000000000000
+      internalID: -7446331261958319618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._26"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 183
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415d2e87822c8e080800000000000000
+      internalID: -9157856363175291628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._27"
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 176
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1081f0725719e6e0800000000000000
+      internalID: -1807888132562911203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._28"
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c189485eceb1cb0800000000000000
+      internalID: -4892056099691684758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._29"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 183
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb7a43b334976520800000000000000
+      internalID: 2695285851776777199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._30"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 181
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95583b3573f1dac0800000000000000
+      internalID: -3832014123085310563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._31"
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 183
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c41c0cdcf2f292f0800000000000000
+      internalID: -967443802093775673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._32"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 183
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd11d1799db4ff70800000000000000
+      internalID: 9220202803871423995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._33"
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 183
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2087c973815ae50800000000000000
+      internalID: 6819883837849862817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._34"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 182
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd63f2bfe43edb50800000000000000
+      internalID: 6619786706385333686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._35"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 94
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd033d0ab860f9a70800000000000000
+      internalID: 8835788190692618459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._36"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 85
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce5b65a867316a30800000000000000
+      internalID: 4206704449532157640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._37"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 48
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c19a1fee9a60b10800000000000000
+      internalID: 1947430732606020765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._38"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 47
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3694f3d9cf9eadf20800000000000000
+      internalID: 3448325735884736867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._39"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 49
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0f30a7b04e0c880800000000000000
+      internalID: -8592617351080054594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._40"
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014e94afe02688df0800000000000000
+      internalID: -177784368812923888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Now I order to add obstacles that block the ball\u2019s trajectory._41"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 49
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536fb2df79d2aa720800000000000000
+      internalID: 2858147044330829365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Now I order to add obstacles that block the ball\u2019s trajectory._0": -608655025262024282
+      "Now I order to add obstacles that block the ball\u2019s trajectory._1": -4607145454630849099
+      "Now I order to add obstacles that block the ball\u2019s trajectory._10": -7918906420406175392
+      "Now I order to add obstacles that block the ball\u2019s trajectory._11": 2730758173846801679
+      "Now I order to add obstacles that block the ball\u2019s trajectory._12": 3319977061656528212
+      "Now I order to add obstacles that block the ball\u2019s trajectory._13": -6327629443056508413
+      "Now I order to add obstacles that block the ball\u2019s trajectory._14": -5767274053899417516
+      "Now I order to add obstacles that block the ball\u2019s trajectory._15": 9074793608390040686
+      "Now I order to add obstacles that block the ball\u2019s trajectory._16": 65087846345185451
+      "Now I order to add obstacles that block the ball\u2019s trajectory._17": 5950834800616242666
+      "Now I order to add obstacles that block the ball\u2019s trajectory._18": 3261751496105165123
+      "Now I order to add obstacles that block the ball\u2019s trajectory._19": -9097292325500548616
+      "Now I order to add obstacles that block the ball\u2019s trajectory._2": -131592508045876101
+      "Now I order to add obstacles that block the ball\u2019s trajectory._20": 5671903368273740499
+      "Now I order to add obstacles that block the ball\u2019s trajectory._21": -6873309098801344012
+      "Now I order to add obstacles that block the ball\u2019s trajectory._22": -170051304037895813
+      "Now I order to add obstacles that block the ball\u2019s trajectory._23": 756417427199464927
+      "Now I order to add obstacles that block the ball\u2019s trajectory._24": 3723318541914854469
+      "Now I order to add obstacles that block the ball\u2019s trajectory._25": -7446331261958319618
+      "Now I order to add obstacles that block the ball\u2019s trajectory._26": -9157856363175291628
+      "Now I order to add obstacles that block the ball\u2019s trajectory._27": -1807888132562911203
+      "Now I order to add obstacles that block the ball\u2019s trajectory._28": -4892056099691684758
+      "Now I order to add obstacles that block the ball\u2019s trajectory._29": 2695285851776777199
+      "Now I order to add obstacles that block the ball\u2019s trajectory._3": 5425364906901593278
+      "Now I order to add obstacles that block the ball\u2019s trajectory._30": -3832014123085310563
+      "Now I order to add obstacles that block the ball\u2019s trajectory._31": -967443802093775673
+      "Now I order to add obstacles that block the ball\u2019s trajectory._32": 9220202803871423995
+      "Now I order to add obstacles that block the ball\u2019s trajectory._33": 6819883837849862817
+      "Now I order to add obstacles that block the ball\u2019s trajectory._34": 6619786706385333686
+      "Now I order to add obstacles that block the ball\u2019s trajectory._35": 8835788190692618459
+      "Now I order to add obstacles that block the ball\u2019s trajectory._36": 4206704449532157640
+      "Now I order to add obstacles that block the ball\u2019s trajectory._37": 1947430732606020765
+      "Now I order to add obstacles that block the ball\u2019s trajectory._38": 3448325735884736867
+      "Now I order to add obstacles that block the ball\u2019s trajectory._39": -8592617351080054594
+      "Now I order to add obstacles that block the ball\u2019s trajectory._4": -7879006565690607112
+      "Now I order to add obstacles that block the ball\u2019s trajectory._40": -177784368812923888
+      "Now I order to add obstacles that block the ball\u2019s trajectory._41": 2858147044330829365
+      "Now I order to add obstacles that block the ball\u2019s trajectory._5": -2976811393729441243
+      "Now I order to add obstacles that block the ball\u2019s trajectory._6": -6562040156889157051
+      "Now I order to add obstacles that block the ball\u2019s trajectory._7": 9084649950618264256
+      "Now I order to add obstacles that block the ball\u2019s trajectory._8": 3016589008117516020
+      "Now I order to add obstacles that block the ball\u2019s trajectory._9": -3995064194072862070
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

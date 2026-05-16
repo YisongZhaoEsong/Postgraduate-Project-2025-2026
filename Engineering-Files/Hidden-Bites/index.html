@@ -1,0 +1,248 @@
+// The AR entry page was adapted from the official MindAR documentation and then modified to fit the structure of my
+project,
+which is the transition from image recognition to the game page.
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Hidden Bites AR Entry</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mind-ar@1.2.5/dist/mindar-image-aframe.prod.js"></script>
+
+  <link href="https://fonts.googleapis.com/css2?family=Jost:wght@700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+  <style>
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      width: 100%;
+      height: 100%;
+      background: black;
+      font-family: 'Jost', sans-serif;
+    }
+
+    body {
+      position: relative;
+    }
+
+    canvas {
+      position: fixed;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+
+    #introPage {
+      position: fixed;
+      inset: 0;
+      background: black;
+      color: white;
+      z-index: 100;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 60px;
+      box-sizing: border-box;
+      text-align: left;
+      cursor: pointer;
+    }
+
+    #introBox {
+      max-width: 1000px;
+      line-height: 1.65;
+      font-size: 16px;
+    }
+
+    #introTitle {
+      font-size: 28px;
+      margin-bottom: 24px;
+      color: #60F4C8;
+      text-align: center;
+      font-family: 'Press Start 2P', cursive;
+      letter-spacing: 2px;
+    }
+
+    #introTip {
+      margin-top: 28px;
+      text-align: center;
+      font-size: 15px;
+      color: #4FFC4F;
+    }
+
+
+    #arUI {
+      display: none;
+    }
+
+    #arScene {
+      display: none;
+    }
+
+    .title {
+      position: fixed;
+      top: 28px;
+      left: 50%;
+      transform: translateX(-50%);
+      color: #60F4C8;
+      font-size: 18px;
+      font-family: 'Press Start 2P', cursive;
+      z-index: 30;
+      letter-spacing: 2px;
+      text-shadow: 0 0 8px rgba(96, 244, 200, 0.45);
+    }
+
+    .hint {
+      position: fixed;
+      left: 50%;
+      bottom: 88px;
+      transform: translateX(-50%);
+      background: rgba(0, 0, 0, 0.7);
+      color: white;
+      padding: 14px 24px;
+      border-radius: 12px;
+      font-size: 18px;
+      z-index: 30;
+      text-align: center;
+      white-space: nowrap;
+      font-family: 'Jost', sans-serif;
+    }
+
+    #linkHint {
+      position: fixed;
+      left: 50%;
+      bottom: 28px;
+      transform: translateX(-50%);
+      text-align: center;
+      color: #a8a8a8;
+      font-size: 18px;
+      font-family: 'Jost', sans-serif;
+      z-index: 40;
+      background: rgba(0, 0, 0, 0.72);
+      padding: 12px 20px;
+      border-radius: 12px;
+      white-space: nowrap;
+      display: none;
+      pointer-events: auto;
+    }
+
+    #linkHint a {
+      color: #60F4C8;
+      text-decoration: underline;
+      pointer-events: auto;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="introPage" onclick="enterAR()">
+    <div id="introBox">
+      <div id="introTitle">HIDDEN BITES</div>
+
+      <p>
+        This project, <b>Hidden Bites</b>, is an interactive map-based game developed using JavaScript. It explores how
+        platform recommendation systems influence people’s choices when selecting restaurants. The project takes the
+        form of a critical interactive experience, where users are asked to identify whether a restaurant is a “viral”
+        platform-driven location or a genuinely good local food spot. The intended experience is both playful and
+        reflective, encouraging users to learn how to discover better food choices through gameplay.
+      </p>
+
+      <p>
+        The game begins with an AR interaction, where users scan a pizza image to enter the system. Once activated, a
+        city map (based on Shenyang) is generated, displaying a series of restaurants. Each restaurant is represented
+        through visualised data, including crowd density, comment levels, and location context. Players are given 30
+        seconds to judge each restaurant based on these visual cues. Choosing a local restaurant increases the score,
+        while selecting a viral restaurant results in a penalty.
+      </p>
+
+      <p>
+        Technically, the project was developed using p5.js for visual rendering and interaction, and Mappa.js with
+        Leaflet to integrate a real-world map into the canvas. Latitude and longitude values are converted into screen
+        positions using latLngToPixel(), allowing data to be mapped spatially. Core coding concepts from the course were
+        applied, including variables, arrays, conditional statements, loops, and functions. User interaction is handled
+        through mouse input, and the system state is updated in real time. The AR component was implemented using MindAR
+        and A-Frame, adapted from official documentation, with all external resources clearly referenced.
+      </p>
+
+      <p>
+        The motivation behind this project comes from personal experience. I noticed that many highly recommended
+        restaurants on platforms such as TikTok and Xiaohongshu often prioritise visual presentation and online
+        visibility over food quality. In contrast, many local restaurants with excellent food remain unnoticed due to a
+        lack of digital exposure. This led me to question how digital platforms shape our perception and choices.
+      </p>
+
+      <p>
+        Through this project, I aim to critically reflect on platform-driven visibility and consumer behaviour, while
+        also helping users improve their ability to identify worthwhile restaurants in real life. The project also
+        helped me develop a clearer understanding of how data, interaction, and visual design can work together to
+        communicate complex ideas.
+      </p>
+
+      <div id="introTip">Click anywhere to enter the AR experience</div>
+    </div>
+  </div>
+
+  <div id="arUI">
+    <div class="title">HIDDEN BITES</div>
+    <div class="hint" id="hintText">Scan the pizza image to start</div>
+    <div id="linkHint">
+      Pizza target image (for scanning):
+      <a href="pizza.jpg" target="_blank">Click here</a>
+    </div>
+  </div>
+
+  <a-scene id="arScene" mindar-image="imageTargetSrc: targets.mind; autoStart: true; uiScanning: true;"
+    color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false"
+    device-orientation-permission-ui="enabled: false" embedded>
+    <a-camera position="0 0 0" look-controls="enabled: false"></a-camera>
+
+    <a-entity mindar-image-target="targetIndex: 0" id="pizzaTarget">
+      <a-plane position="0 0 0" width="1" height="0.6" color="#7105FB" opacity="0.65"></a-plane>
+
+      <a-ring position="0 0 0.01" radius-inner="0.32" radius-outer="0.42" color="#ffffff"></a-ring>
+
+      <a-text value="PIZZA FOUND" align="center" color="#ffffff" width="2" position="0 -0.55 0"></a-text>
+    </a-entity>
+  </a-scene>
+
+  <script>
+    function enterAR() {
+      document.getElementById("introPage").style.display = "none";
+      document.getElementById("arUI").style.display = "block";
+      document.getElementById("arScene").style.display = "block";
+      document.getElementById("linkHint").style.display = "block";
+    }
+
+    const target = document.querySelector("#pizzaTarget");
+    const hintText = document.querySelector("#hintText");
+    let entered = false;
+
+    target.addEventListener("targetFound", () => {
+      hintText.innerText = "Pizza found! Entering Hidden Bites...";
+
+      if (!entered) {
+        entered = true;
+        setTimeout(() => {
+          window.location.href = "game.html";
+        }, 1000);
+      }
+    });
+
+    target.addEventListener("targetLost", () => {
+      if (!entered) {
+        hintText.innerText = "Scan the pizza image to start";
+      }
+    });
+  </script>
+</body>
+
+</html>
