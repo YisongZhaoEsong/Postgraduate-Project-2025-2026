@@ -1,4 +1,4 @@
-# Graduate Project 2025-2026
+# Postgraduate Project 2025-2026
 
 This repository is the central index for my postgraduate project work during the 2025-2026 academic year.
 
