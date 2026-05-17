@@ -12,9 +12,17 @@ During the project development process, our team primarily completed the code by
 Our team members include (Qiuye Zhu, Yisong Zhao, and Yifei Ni), and we decided to modify Pong.
 In this project, we place the classic game Pong within a narrative framework titled “Symmetry Kingdom” and reconstruct its control logic based on this framework.
 
-<img width="10000" height="3970" alt="dddf9f8b-bd08-4e91-acaf-9604f707492c" src="https://github.com/user-attachments/assets/29bd2c4f-8824-4858-80b9-aac49ae16d39" />
+<img width="3224" height="1280" alt="e40c3bb8f019166b76cf7ef447da619a" src="https://github.com/user-attachments/assets/67fd2688-e0d5-4a38-935c-a9b65d1af31f" />
 
-<img width="10000" height="3970" alt="571bf6d6-5951-4c4d-bd47-6b2954243853" src="https://github.com/user-attachments/assets/dbe1e5c0-49e2-4a69-b577-f22c35f14e4d" />
+<img width="3224" height="1280" alt="00fbfb114444c5ae977402e178cdf339" src="https://github.com/user-attachments/assets/28370c94-50a2-4565-92c4-842375be9706" />
+
+
+
+
+
+
+
+
 
 Through this game, we aim to make players aware that systems and rules which appear stable and fair are actually designed and maintained orders. The formulation and alteration of rules are often closely tied to the interests and will of those in power and decision-makers.
 
