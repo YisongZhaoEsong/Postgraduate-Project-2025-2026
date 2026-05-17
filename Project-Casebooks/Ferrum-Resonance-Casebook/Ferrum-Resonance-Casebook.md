@@ -21,6 +21,15 @@ Through this immersive experience, the project aims to reconnect users with the 
 
 The project combines touch-based interaction with damping-style haptic feedback, allowing users to experience sensations reminiscent of steel collision, mechanical movement, and industrial forging processes. Through embodied participation, users are able to more directly perceive the qualities of “strength,” “weight,” and “resilience” embedded within Liaoning’s industrial culture.
 
+## Design Process
+
+First, representative industrial elements of Liaoning — including blast furnaces, steel structures, and mechanical forms — were visually reconstructed and reconfigured. Initial concept sketches were developed before moving into 3D modelling, and Blender was used to produce pre-animated interaction sequences for the installation.
+
+<img width="1545" height="707" alt="image" src="https://github.com/user-attachments/assets/d238131b-35d5-4e80-b188-5606e378bf6a" />
+
+
+
+
 
 
 
