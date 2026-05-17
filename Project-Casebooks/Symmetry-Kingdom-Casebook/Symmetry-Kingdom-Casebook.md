@@ -102,9 +102,7 @@ The other two king’s commands will also appear as the game progresses.
 
 <img width="2148" height="924" alt="image" src="https://github.com/user-attachments/assets/8fda9508-ffd1-4a7e-94f3-359ca6eb7b3b" />
 
-
-<img width="2154" height="924" alt="image" src="https://github.com/user-attachments/assets/1d614dfe-d318-46c5-b529-93898e218bd4" />
-
+<img width="2154" height="924" alt="image" src="https://github.com/user-attachments/assets/49d5c065-a01a-4138-8862-90e6dac2f587" />
 
 **Step 5:**
 
@@ -112,7 +110,8 @@ The game is played between the player and an AI opponent. The first to reach fiv
 
 After completing the game, players begin to realise that the so-called “rules” are actually determined by the king’s commands. We aim to make players aware that systems and rules which appear stable and fair are in fact designed and maintained orders. The formulation and alteration of these rules are often closely tied to the interests and intentions of those in power.
 
-<img width="5712" height="3213" alt="b38faed7-2e08-463b-b6db-f93b020b9e85 (1)" src="https://github.com/user-attachments/assets/67167576-cfd4-46f5-b1c0-5012855c3b21" />
+<img width="2219" height="1233" alt="image" src="https://github.com/user-attachments/assets/9d0050b8-dd28-40ab-b463-f5767c6da47f" />
+
 
 
 ## Design Documentation
@@ -126,32 +125,38 @@ We transitioned from keyboard-based controls to hand gesture control to avoid li
 In the early stages of interaction design, we first conducted simple code tests using several small LED lights. By illuminating lights at different positions, we verified whether sensor data could be read correctly. \
 //MPU-6050 code reading tutorial source:https://www.youtube.com/watch?v=wTfSfhjhAU0&t=16s
 
-<img width="1649" height="956" alt="image" src="https://github.com/user-attachments/assets/50768f18-6d3a-49f0-8dd7-236260a15d98" />
+<img width="1649" height="956" alt="image" src="https://github.com/user-attachments/assets/b9a37ff4-25dc-4631-b12e-d286a16cc561" />
+
 
 
 During testing, we found that while individual LEDs can provide basic visual feedback, directional expression remains insufficiently clear and the overall effect is relatively simple. However, we successfully connected up, down, left, and right data to the LED lights.
 
-<img width="426" height="240" alt="image" src="https://github.com/user-attachments/assets/ba2f3ed9-f37e-47b4-9bd6-73c9dcf4cb98" />
+<img width="426" height="240" alt="b075eeee-38cc-4405-85b3-d782e726187c" src="https://github.com/user-attachments/assets/37866d3b-c074-4605-b618-eb1b9758a1a9" /> 
+<img width="426" height="240" alt="9c70ce35-4203-4b7b-bfb2-88a9b43821e6" src="https://github.com/user-attachments/assets/49accea8-3cbd-42e1-b6b8-7832a8b7c1e5" />
 
-<img width="426" height="240" alt="image" src="https://github.com/user-attachments/assets/160346b0-6e89-472a-b9d0-57ece442efd6" />
+
 
 To enhance directional information clarity and improve visual presentation, we ultimately chose to use an RGB LED dot matrix to replace individual LEDs. This allows changes in hand movements to be displayed in a more direct and dynamic way. To achieve this effect, we employed an 8×8 WS2812 RGB LED dot matrix module (totaling 64 LEDs) and connected it to an Arduino. Since the LED matrix requires stable data and power connections, we first connected the module's power (5V), ground (GND), and data input pins to corresponding wires. We then connected the data lines to the Arduino's digital output pins, completing the hardware setup.
 
-<img width="4032" height="2268" alt="image" src="https://github.com/user-attachments/assets/a48af469-65a4-4a61-836f-a85671e690e4" />
+<img width="4032" height="2268" alt="image" src="https://github.com/user-attachments/assets/e9eb50d8-64d7-42d8-906d-65c2a81b16bd" />
 
 
 After completing the hardware connections, we began designing patterns within the dot matrix. To more conveniently control the position and color of each LED, we referenced relevant tutorials and used an Excel plugin to set the RGB values for each point within the grid. This approach allowed us to first sketch the directional arrow pattern in the table, then copy the generated code into the Arduino program. Not only did this enable more intuitive pattern design, but it also allowed us to quickly adjust the arrow's shape and display effect. Ultimately, the LED dot matrix can display different arrows based on the tilt direction of the wrist, providing clear visual feedback of the player's movements.
 // WS2812 RGB LED Array tutorial: https://projecthub.arduino.cc/Murrayman/excel-for-ws2812-rgb-led-array-animations-4f43fa
 
-<img width="2559" height="1467" alt="image" src="https://github.com/user-attachments/assets/6ac45d3a-12f0-4b87-98b0-9e289e939e0a" />
+<img width="2559" height="1467" alt="image" src="https://github.com/user-attachments/assets/b6d6ad04-ac91-47e2-a863-e5a8a5af7a32" />
+
+
 
 **-Up arrow-**
 
-<img width="2559" height="1467" alt="image" src="https://github.com/user-attachments/assets/1fa5b131-4149-43ea-a309-7d80eaa67080" />
+<img width="2559" height="1467" alt="image" src="https://github.com/user-attachments/assets/be249fe5-8fac-49cc-9629-82f643ec913f" />
+
 
 **-Down arrow-**
 
-<img width="428" height="240" alt="5月15日" src="https://github.com/user-attachments/assets/db06a6c4-605a-42da-8f93-4a9bffeed938" />
+<img width="426" height="240" alt="62c380f7-3d4d-4c24-bf9c-80b00acfbf6f" src="https://github.com/user-attachments/assets/46632a08-14a1-4ce9-b9c0-76850b02506e" />
+
 
 **-Final Effect Display**
 
@@ -163,7 +168,8 @@ After completing the hardware connections, we began designing patterns within th
 
 I connected the Arduino to Unity using serial communication: the Arduino sends sensor data, Unity sets the COM port and serial rate, and then a Paddle script reads the data to control object movement.
 
-<img width="2048" height="537" alt="image" src="https://github.com/user-attachments/assets/3d8f685a-0bea-4073-97f9-dd97462b2f9d" />
+<img width="2048" height="537" alt="image" src="https://github.com/user-attachments/assets/091e7ed6-e377-46e2-b063-8f7ffe5bb7cd" />
+
 
 
 
@@ -172,55 +178,64 @@ Our team modified Unity's three layers:\
 1.Input Layer: The original game used keyboard input to control the platform, while we switched to Arduino input, using wrist movements up and down to control the platform.\
 2.Rule Layer: While the original game features fixed and stable rules, we introduced the concept of a RuleManager based on the theme that rules are human-made. This system randomly alters rules during gameplay—such as making the ball move unpredictably, inverting platform controls, or adding obstacles—so players cannot predict when rules will change.
 
-<img width="1755" height="1011" alt="image" src="https://github.com/user-attachments/assets/3df9b49e-27d0-42fe-b4d0-cf6e49d05097" />
+<img width="1755" height="1011" alt="image" src="https://github.com/user-attachments/assets/3d8f0be7-2aa7-4630-9b1c-fb189a718540" />
+
 
 
 3.Gameplay Layer: To enhance the game's appeal, we've introduced obstacles that move vertically at the center of the screen, thereby increasing the game's playability.
 
-<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/5ec0f123-4818-4dbe-a82f-93934d9f5665" />
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/740357c3-b625-44d6-854f-bb7cf2b08ebc" />
 
-<img width="718" height="308" alt="image" src="https://github.com/user-attachments/assets/74023b23-89ca-4aaa-b749-cb211d069c80" />
+<img width="718" height="308" alt="image" src="https://github.com/user-attachments/assets/acc78254-c738-4349-8475-7b9a98603e8d" />
+
 
 Making Process in Unity
 
-<img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/3c1ed63f-017e-48ce-a1bd-30d44a26e2a8" />
+<img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/6c49b16d-40ce-4b49-bbe6-726dbb6a792f" />
 
-<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/b0bba7f2-fc6e-48b0-a64d-5cadc98360a5" />
+<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/145e0ee3-8d6a-4b0d-aaa8-ec18c0ea8a0d" />
+
 
 **· UI Design (Yisong Zhao，Qiuye Zhu)**
 We used Figma to design the game’s UI visuals
 
-<img width="2256" height="1280" alt="image" src="https://github.com/user-attachments/assets/cc8adbd7-cff5-46e8-9b0a-cea17870041e" />
+<img width="2256" height="1280" alt="image" src="https://github.com/user-attachments/assets/e746a6c5-948c-422c-856c-07f2984f9467" />
+
 
 After entering the game, players first see the game's start screen, which briefly introduces the gameplay
 
-<img width="1161" height="660" alt="image" src="https://github.com/user-attachments/assets/2d55fa33-b46d-4ee3-8d09-a9783c37ab1f" />
+<img width="1161" height="660" alt="image" src="https://github.com/user-attachments/assets/d9f75c16-0fa5-4869-abcb-9cfdb274f271" />
+
 
 After clicking START, the game's background story (the mentioned fairy tale) appears, giving players a brief understanding of the game's concept.
 
-<img width="1162" height="662" alt="image" src="https://github.com/user-attachments/assets/1795b4e4-471b-468a-bb03-d743c36a3b92" />
+<img width="1162" height="662" alt="image" src="https://github.com/user-attachments/assets/94898134-9e53-4065-bcd4-d137c3a31fee" />
 
-<img width="2049" height="596" alt="image" src="https://github.com/user-attachments/assets/d524696b-6d64-4cc6-a479-fefc6beda7f3" />
+<img width="2049" height="596" alt="image" src="https://github.com/user-attachments/assets/661a79f2-48ac-4ea4-9e6b-e9bb1996f187" />
+
 
 Press the SPACE or left-click the mouse to begin the game.
 
 Meanwhile, during gameplay, rules will randomly change. When changes occur, UI prompts will appear to alert players to upcoming rule alterations, allowing them to experience directly how the rules are human-made.
 
-<img width="1194" height="512" alt="image" src="https://github.com/user-attachments/assets/89c3faac-e178-46ad-ab77-54746339f8ed" />
+<img width="1194" height="512" alt="image" src="https://github.com/user-attachments/assets/0531029a-8c33-42c0-b20d-074672919889" />
 
-<img width="2154" height="924" alt="image" src="https://github.com/user-attachments/assets/03c837f8-fe36-4187-aba7-9c1aa921309a" />
 
-<img width="2154" height="924" alt="image" src="https://github.com/user-attachments/assets/f871dfaa-09a5-4d88-b6d6-2dfa06b53370" />
+<img width="2154" height="924" alt="image" src="https://github.com/user-attachments/assets/3eba31c4-71ea-491d-b7de-541355102575" />
+
+<img width="2154" height="924" alt="image" src="https://github.com/user-attachments/assets/d89e0310-ca99-4665-97d7-c71aeb781e9c" />
+
 
 **· 3D printing (made by Yisong ZHAO)**
 
 By 3D printing the shell and integrating a strap structure, we created a wearable interactive device that directly translates the player's hand movements into game controls.
 
-<img width="2029" height="1255" alt="image" src="https://github.com/user-attachments/assets/ffa1f88f-e616-4cce-bedb-9e8240fbde07" />
+<img width="2029" height="1255" alt="image" src="https://github.com/user-attachments/assets/b48db524-527c-4ad5-9c71-46ff21e65a62" />
 
-<img width="2560" height="1389" alt="image" src="https://github.com/user-attachments/assets/3ec18340-2156-48c3-947d-da9978a5465b" />
+<img width="2560" height="1389" alt="image" src="https://github.com/user-attachments/assets/d5cf47f2-ba81-416a-8191-9c3cd562cdc0" />
 
-<img width="2276" height="1280" alt="image" src="https://github.com/user-attachments/assets/969a177c-63ec-4e9b-a273-d95ccbf87d1f" />
+<img width="2276" height="1280" alt="image" src="https://github.com/user-attachments/assets/442a8699-6013-41f2-bc57-6f41ede834ff" />
+
 
 ##  User feedback
 During the demo, many students played the game and provided feedback:
