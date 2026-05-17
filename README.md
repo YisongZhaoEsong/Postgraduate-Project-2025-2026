@@ -9,10 +9,11 @@ It organizes my project repositories into two groups:
 
 ## Project Structure
 
-| Project | Casebook | Engineering Files |
-| --- | --- | --- |
-| Symmetry Kingdom | [Symmetry-Kingdom-Casebook](Project-Casebooks/Symmetry-Kingdom-Casebook) | [Symmetry-Kingdom](Engineering-Files/Symmetry-Kingdom) |
-| Hidden Bites | [Hidden-Bites-Casebook](Project-Casebooks/Hidden-Bites-Casebook) | [Hidden-Bites](Engineering-Files/Hidden-Bites) |
+| Project | Direction | Casebook | Engineering Files |
+| --- | --- | --- | --- |
+| Symmetry Kingdom | Embodied & Gamified Interaction Design; Immersive Interface Design | [Symmetry-Kingdom-Casebook](Project-Casebooks/Symmetry-Kingdom-Casebook) | [Symmetry-Kingdom](Engineering-Files/Symmetry-Kingdom) |
+| Hidden Bites | Critical Game Interaction; UX/UI Design | [Hidden-Bites-Casebook](Project-Casebooks/Hidden-Bites-Casebook) | [Hidden-Bites](Engineering-Files/Hidden-Bites) |
+| When Time Leaks | Interactive Installation; Embodied Media Experience | [When-Time-Leaks](Project-Casebooks/When-Time-Leaks) | Not included |
 
 ## Folders
 
