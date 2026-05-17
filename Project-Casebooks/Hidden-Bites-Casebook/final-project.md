@@ -8,7 +8,8 @@
 
 *Source Code Link: https://github.com/YisongZhaoEsong/Hidden-Bites.git*
 
-<img width="2583" height="1290" alt="image" src="https://github.com/user-attachments/assets/21ed3288-2afe-4041-85b2-f16416094315" />
+<img width="2583" height="1290" alt="image" src="https://github.com/user-attachments/assets/0ef16f42-4495-4892-867a-5aaae4176211" />
+
 
 ## 🟩 Project Description:
 
@@ -24,7 +25,8 @@ The game begins with an AR interaction, where users scan a pizza image（clickin
 
 I created sketches and low-fidelity wireframes for the game to establish the core UI design and interaction logic.
 
-<img width="3362" height="1290" alt="image" src="https://github.com/user-attachments/assets/eb70208c-27b3-4a5d-a0ff-a7351bc9ac4d" />
+<img width="3362" height="1290" alt="image" src="https://github.com/user-attachments/assets/381b77f6-4ed0-40e9-86c9-28c8ce6832fe" />
+
 
 Fig *Wireframe*
 
@@ -297,7 +299,8 @@ function resetGame() {
 ````
 For Visualisation
 
-<img width="3362" height="1290" alt="image" src="https://github.com/user-attachments/assets/b67ff7a5-97a1-4aab-85f0-20e10a1ce2a3" />
+<img width="3362" height="1290" alt="image" src="https://github.com/user-attachments/assets/bda02bfc-9d00-49ac-a932-1b0b10669da3" />
+
 
 
 Fig *Coding*
@@ -320,7 +323,8 @@ target.addEventListener("targetFound", () => {
 
 ***https://hiukim.github.io/mind-ar-js-doc/quick-start/overview***
 
-<img width="1815" height="680" alt="image" src="https://github.com/user-attachments/assets/6243ecf6-6305-4be4-b07e-afd20e6e3cc8" />
+<img width="1815" height="680" alt="image" src="https://github.com/user-attachments/assets/36728154-28f7-40e9-9ca8-0f570a8057de" />
+
 
 Fig *AR entry making*
 
@@ -337,7 +341,8 @@ This separation allows the AR interaction and the game system to remain independ
 
 **Final, I made the the initial game.**
 
-<img width="3039" height="1710" alt="image" src="https://github.com/user-attachments/assets/0cc5cd46-423e-4f6f-8ba1-df9422bf8738" />
+<img width="3039" height="1710" alt="image" src="https://github.com/user-attachments/assets/f77a6edf-0724-4cd3-9e9f-9fc0c80c3877" />
+
 
 Fig *the initial game*
 
@@ -417,11 +422,11 @@ Through this project, I aim to critically reflect on platform-driven visibility 
 
 ## 🟩 Project Images
 
-<img width="3362" height="1290" alt="image" src="https://github.com/user-attachments/assets/3ef2d57d-2a28-49ae-ab94-5350ed9a356a" />
+<img width="3362" height="1290" alt="image" src="https://github.com/user-attachments/assets/1d60a5f6-b0c7-4802-9e25-ec11856fc477" />
 
-<img width="6077" height="3419" alt="image" src="https://github.com/user-attachments/assets/db014298-4874-4ce7-a08b-87bfcbeff6e4" />
+<img width="6077" height="3419" alt="image" src="https://github.com/user-attachments/assets/e9416072-ecb0-4fe5-b05b-5c31cdf65221" />
 
-<img width="3362" height="1290" alt="image" src="https://github.com/user-attachments/assets/8eb87169-2fea-449e-853c-1cd6c286a045" />
+<img width="3362" height="1290" alt="image" src="https://github.com/user-attachments/assets/40888313-e35d-4a1b-8309-a4b051990b47" />
 
 Fig. *Final Display*
 
@@ -463,13 +468,15 @@ images/image_009.png
 
 In the daily life, I often find myself choosing restaurants that are recommended on platforms such as TikTok and Xiaohongshu. These places usually have high ratings and stylish interiors, making them look very attractive. However, the actual experience is often not as good as expected. In contrast, some local restaurants with excellent food are difficult to discover because they lack platform promotion, and people rarely choose to visit them. This led me to think more critically: what factors are actually influencing our choices when selecting restaurants, and how can we truly discover places that are genuinely good?
 
-<img width="2868" height="1290" alt="image" src="https://github.com/user-attachments/assets/4e395b38-9797-4dc9-a24d-5bac3f3dd378" />
+<img width="2868" height="1290" alt="image" src="https://github.com/user-attachments/assets/f8bdca8b-7902-4abc-950c-c5d96fb53974" />
+
 
 Fig *Research*
 
 ### 🟪 Problem Analysis
 
-<img width="3208" height="1443" alt="image" src="https://github.com/user-attachments/assets/3111b8cd-756a-43de-8c00-15d7e8497537" />
+<img width="3208" height="1443" alt="image" src="https://github.com/user-attachments/assets/352cfef6-e7bf-49c9-9796-6d4a92fb97b2" />
+
 
 Fig Imformation Design by author*
 
@@ -487,11 +494,9 @@ I decided to start by analysing the differences between viral restaurants and lo
 
 ### 🟪 User Research
 
-<img width="3209" height="1290" alt="image" src="https://github.com/user-attachments/assets/e73acf09-fa28-4fb5-87f5-fc031a651dba" />
 
-Fig *During the Interview*
+<img width="3209" height="1290" alt="image" src="https://github.com/user-attachments/assets/829daf94-f364-4065-821f-ca837b80edcd" />
 
-<img width="3209" height="1290" alt="image" src="https://github.com/user-attachments/assets/bc04034c-fe0f-457d-922f-cd34e2431ff4" />
 
 Fig *User Research*
 
@@ -504,7 +509,8 @@ Fig *User Research*
 
 To gain a deeper understanding of the issue, I then began searching for more information online, and then found the following information.
 
-<img width="3209" height="1290" alt="image" src="https://github.com/user-attachments/assets/43630317-0c7b-4088-9546-166490187b94" />
+<img width="3209" height="1290" alt="image" src="https://github.com/user-attachments/assets/7f494f8d-c7b7-48e1-b99c-f68edad9c6b5" />
+
 
 Fig *Secondary Research*
 
@@ -520,7 +526,8 @@ EqualStreetNames is a project that visualises the gender distribution of street 
 
 **This inspired me to use visualised information in my map interface to reveal hidden data patterns.**
 
-<img width="2868" height="1290" alt="image" src="https://github.com/user-attachments/assets/af68b446-7ebd-4891-8025-834011ccf7f5" />
+<img width="2868" height="1290" alt="image" src="https://github.com/user-attachments/assets/f51f711d-588c-45bb-adf3-537426919c7c" />
+
 
 Fig *Case Study - EqualStreetNames*
 
@@ -530,7 +537,8 @@ Midnight Rescue! is an educational game in which players collect clues and make 
 
 **This inspired me to introduce a time limit into my game interaction, allowing players to quickly judge restaurant information within a short period, thereby supporting learning through gameplay.**
 
-<img width="3209" height="1290" alt="image" src="https://github.com/user-attachments/assets/db15bf96-59e4-4874-b2a1-a7555fd654d4" />
+<img width="3209" height="1290" alt="image" src="https://github.com/user-attachments/assets/d2fe110b-bd6f-440a-9c30-402686d7c212" />
+
 
 Fig *Case Study - Midnight Rescue!*
 
@@ -540,7 +548,8 @@ Pokémon GO is an AR game that combines the classic series with AR, allowing pla
 
 **It’s given me the idea to use AR to enhance the user experience.**
 
-<img width="3209" height="1290" alt="image" src="https://github.com/user-attachments/assets/30822008-2d29-406b-b8f9-8038559e098d" />
+<img width="3209" height="1290" alt="image" src="https://github.com/user-attachments/assets/a2fe1e5d-4d8f-4e2b-bbb0-ba14a1288133" />
+
 
 Fig *Case Study - Pokémon GO*
 
@@ -548,7 +557,8 @@ Fig *Case Study - Pokémon GO*
 
 **Based on the key findings from the case studies and research, I translated the differences between viral restaurants and local food restaurants into visual features, and applied these within the interactive map-based game I am developing:**
 
-<img width="3209" height="1290" alt="image" src="https://github.com/user-attachments/assets/39ae220e-9c94-490e-8580-99d21a6636be" />
+<img width="3209" height="1290" alt="image" src="https://github.com/user-attachments/assets/5f9e3695-7528-4191-b891-46055003dab8" />
+
 
 Fig *Idea*
 
@@ -556,7 +566,8 @@ Fig *Idea*
 
 **🟦 The player first scans a pizza.**
 
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/240ef363-896c-405b-90a7-474cb8ae23e9" />
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/55a35676-820e-49f6-9238-8bf63c846158" />
+
 
 Fig *The pizza for scan （clicking the website link, the pizza image can be found on the second page.）*
 
@@ -564,17 +575,18 @@ Fig *The pizza for scan （clicking the website link, the pizza image can be fou
 
 **🟦 Once the system recognises it successfully, the game generates a city map showing the distribution of different pizza restaurants, along with their visualised information features.**
 
-<img width="426" height="240" alt="720ac7f8-bca4-43ee-8d85-9bfe34b3b41d" src="https://github.com/user-attachments/assets/34cb2253-52a9-48a8-b2b4-6d16ee1dd4d8" />
+<img width="426" height="240" alt="720ac7f8-bca4-43ee-8d85-9bfe34b3b41d" src="https://github.com/user-attachments/assets/a7bc7fd3-24be-41c6-ba37-ef1fb61f65b9" />
 
+<img width="3362" height="1290" alt="image" src="https://github.com/user-attachments/assets/947b29e7-a6ac-4f6e-8a2f-b6c36fa08182" />
 
-<img width="3362" height="1290" alt="image" src="https://github.com/user-attachments/assets/26971030-5607-4be2-b2ca-b0c5f8e461f1" />
 
 Fig *Interaction - scan a pizza, start the game*
 
 **🟦 After the game begins, the player has 30 seconds to judge, based on these visual cues, whether each restaurant is an viral restaurants or a local food restaurants.**
 
 
-<img width="3525" height="1290" alt="image" src="https://github.com/user-attachments/assets/10d8031e-74f2-4712-813f-f0832c3a46f6" />
+<img width="3525" height="1290" alt="image" src="https://github.com/user-attachments/assets/08e3ff84-5131-4a97-90a3-54355f76a90b" />
+
 
 Fig *Interaction - visual cues*
 
@@ -591,21 +603,21 @@ Fig *Interaction - visual cues*
 **🟦 Choosing a viral restaurant results in a 5-point deduction, while choosing a local eatery earns 5 points.** 
 
 
-<img width="404" height="240" alt="a2fbdd02-c18e-4c70-a378-5a85fdb3a854" src="https://github.com/user-attachments/assets/ba2542c6-1d73-472e-8774-172d769dca03" />
+<img width="404" height="240" alt="a2fbdd02-c18e-4c70-a378-5a85fdb3a854" src="https://github.com/user-attachments/assets/70fd0cf3-da92-4ec0-b9e2-1c012044de6e" />
+
 Fig *Interaction - earn 5 points*
 
+<img width="404" height="240" alt="38d43a92-b2ee-4f40-b91e-0b7be814c384" src="https://github.com/user-attachments/assets/551b720b-e469-467c-a56d-9497aa734e68" />
 
-<img width="404" height="240" alt="38d43a92-b2ee-4f40-b91e-0b7be814c384" src="https://github.com/user-attachments/assets/b270ddfb-2c56-47b4-b35f-0004a94b5b4f" />
 Fig *Interaction - deducte 5 points*
 
 **🟦 At the end of the 30 seconds, if the player’s score is above 10, they win and move on to the next round of food exploration.** **（In the current version of the project, only the pizza category has been developed.）**
 
 
-<img width="404" height="240" alt="78d937ac-ca06-481e-823e-8c8d8986f93a" src="https://github.com/user-attachments/assets/909f2e71-be05-4fb8-a101-e940324ce3ef" />
+<img width="404" height="240" alt="78d937ac-ca06-481e-823e-8c8d8986f93a" src="https://github.com/user-attachments/assets/11d116ef-b9aa-4bd3-945f-bc0161ff75b5" />
 
+<img width="3362" height="1290" alt="image" src="https://github.com/user-attachments/assets/7576228d-4a58-4b35-92b0-00776f96c6e2" />
 
-
-<img width="3362" height="1290" alt="image" src="https://github.com/user-attachments/assets/97e4e560-70c5-4e7d-9c1c-d6d585a85182" />
 
 Fig *Interaction - win or fail*
 
