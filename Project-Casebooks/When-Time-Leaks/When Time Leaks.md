@@ -64,9 +64,10 @@ The following images show the final interactive installation in its static displ
 
 <img width="1888" height="1280" alt="image" src="https://github.com/user-attachments/assets/e58a63ef-31e8-407d-831c-14a9d6c1d83b" />
 
-<img width="963" height="1476" alt="image" src="https://github.com/user-attachments/assets/97f67505-9109-41ba-9f43-74d0ad7f684b" />
 
-<img width="968" height="1505" alt="image" src="https://github.com/user-attachments/assets/04e223bb-9849-4202-ba37-6715b080242f" />
+<img width="889" height="1329" alt="image" src="https://github.com/user-attachments/assets/730d40ae-f7c7-4e93-9110-2dbad9a71b84" />
+
+
 
 <img width="2106" height="1402" alt="image" src="https://github.com/user-attachments/assets/94b6948b-2506-42fb-bf50-6e3748d7dcc6" />
 
