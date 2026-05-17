@@ -17,7 +17,7 @@ Through this immersive experience, the project aims to reconnect users with the 
 
 <img width="2860" height="1494" alt="1eb804cb0b388b9fcd99b8fcca98362e" src="https://github.com/user-attachments/assets/3fcab4c9-690b-43b4-a476-5e1cf40a2744" />
 
-***All interactions incorporate damping-style haptic feedback, and creating a multisensory interactive experience that combines touch, visual, and auditory feedback.***
+***All interactions are enhanced by damping-style haptic feedback, while distinct sound and visual responses are designed for different forms of interaction, creating a multisensory experience that integrates touch, audio, and visual feedback.***
 
 The project combines touch-based interaction with damping-style haptic feedback, allowing users to experience sensations reminiscent of steel collision, mechanical movement, and industrial forging processes. Through embodied participation, users are able to more directly perceive the qualities of “strength,” “weight,” and “resilience” embedded within Liaoning’s industrial culture.
 
