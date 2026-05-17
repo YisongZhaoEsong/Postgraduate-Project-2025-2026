@@ -26,15 +26,22 @@ The project combines touch-based interaction with damping-style haptic feedback,
 First, representative industrial elements of Liaoning — including blast furnaces, steel structures, and mechanical forms — were visually reconstructed and reconfigured. Initial concept sketches were developed before moving into 3D modelling, and Blender was used to produce pre-animated interaction sequences for the installation.
 
 <img width="1545" height="707" alt="image" src="https://github.com/user-attachments/assets/d238131b-35d5-4e80-b188-5606e378bf6a" />
+
 ***The 3D modelling % animate making***
 
 Then, TouchOSC was used as a mobile controller, communicating with Unity via OSC over UDP (port 9005) to control mechanical animations, lighting changes, and overall rotation, while Editor tools supported data management and the full interaction workflow.
-***Interaction Making & Programming***
+
 
 <img width="5712" height="4284" alt="8762768e785827e63ae13ebac17c9534" src="https://github.com/user-attachments/assets/6a374546-2269-4234-9078-bc3666fb14f4" />
 
 
 <img width="4179" height="2350" alt="0f0401ded368ae30651631f0826b01e7" src="https://github.com/user-attachments/assets/5848e6a8-003b-45d0-99a7-9b631d7e1b74" />
+
+***Interaction Development***
+
+
+
+
 
 
 
