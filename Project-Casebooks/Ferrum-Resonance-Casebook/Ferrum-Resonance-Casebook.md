@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/9eaffea6-1803-4c42-8f58-269814e781ab
 
 ## Final Display
 
-**After institutional review, this interactive project was recognised as an outstanding work by LuXun Academy of Fine Arts, China, and has been permanently collected by the institution.**
+***After institutional review, this interactive project was recognised as an outstanding work by LuXun Academy of Fine Arts, China, and has been permanently collected by the institution.***
 
 https://github.com/user-attachments/assets/3c29d2d7-ceae-4406-8105-58a215566b55
 
