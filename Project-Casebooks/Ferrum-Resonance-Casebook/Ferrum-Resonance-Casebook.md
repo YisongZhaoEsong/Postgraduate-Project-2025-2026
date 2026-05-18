@@ -1,5 +1,7 @@
 # Ferrum Resonance Casebook
 
+***The final project casebook presentation and demonstration video are currently in production.***
+
 ## Design Overview
 
 <img width="6000" height="4000" alt="fc4585746967dbdb4dba6e1a0a2d01bf" src="https://github.com/user-attachments/assets/13358361-10de-418e-9f56-1aaa66570d67" />
