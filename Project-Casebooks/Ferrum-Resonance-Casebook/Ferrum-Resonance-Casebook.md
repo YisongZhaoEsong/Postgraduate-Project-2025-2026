@@ -45,7 +45,16 @@ Then, TouchOSC was used as a mobile controller, communicating with Unity via OSC
 
 During the development process, I also experimented with Arduino-based interaction. However, I found it difficult to achieve the desired damping-style haptic feedback, so this approach was eventually abandoned.
 
-<img width="1494" height="774" alt="image" src="https://github.com/user-attachments/assets/53e5f20e-31c8-451e-9952-1ffc8848c239" />
+## After the interactive system was successfully implemented, testing was conducted.
+
+
+
+https://github.com/user-attachments/assets/9eaffea6-1803-4c42-8f58-269814e781ab
+
+
+
+
+
 
 
 
