@@ -56,10 +56,6 @@ https://github.com/user-attachments/assets/9eaffea6-1803-4c42-8f58-269814e781ab
 
 ***After institutional review, this interactive project was recognised as an outstanding work by LuXun Academy of Fine Arts, China, and has been permanently collected by the institution.***
 
-https://github.com/user-attachments/assets/3c29d2d7-ceae-4406-8105-58a215566b55
-
-https://github.com/user-attachments/assets/17bf0951-57c9-4eb6-83b9-ccbac113cc3d
-
 <img width="1920" height="1280" alt="032ab77ff301bdc413a5f5db5454086c" src="https://github.com/user-attachments/assets/81810104-b801-4bd7-9042-dd4d26bc5359" />
 
 <img width="1043" height="670" alt="6b48444f45c73b784d07570fb42082cd" src="https://github.com/user-attachments/assets/7070d6bc-8e65-40ad-968d-90539ae28b69" />
@@ -70,6 +66,10 @@ https://github.com/user-attachments/assets/17bf0951-57c9-4eb6-83b9-ccbac113cc3d
 <img width="6000" height="4000" alt="8f7d5dcaab803bda3cefca69924c67e7" src="https://github.com/user-attachments/assets/81af132d-9330-453e-bffe-04bda298349d" />
 
 <img width="1920" height="1280" alt="6def699faf5cf0258427036e584ed447" src="https://github.com/user-attachments/assets/738ff92f-9ee2-42d1-ac7d-f8a1cc4dd2de" />
+
+https://github.com/user-attachments/assets/3c29d2d7-ceae-4406-8105-58a215566b55
+
+https://github.com/user-attachments/assets/17bf0951-57c9-4eb6-83b9-ccbac113cc3d
 
 
 
