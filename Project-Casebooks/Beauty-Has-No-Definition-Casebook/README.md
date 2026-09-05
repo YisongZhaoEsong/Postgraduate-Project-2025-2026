@@ -86,7 +86,7 @@ This stage helped me move from a critical concept of algorithmic beauty to a mor
 
 ### Case Study 1
 
-[▶ Watch video](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/videos/4d2dea39-8bcc-4454-aff2-68c7c6e2d5ae.mp4)
+<img width="2864" height="973" alt="image" src="https://github.com/user-attachments/assets/72a5ae59-a6a2-4b3d-a67c-36e57f7712e5" />
 
 The first case study is Memo Akten’s *Learning to See*. This work uses machine learning and a live camera feed to reinterpret real-world objects in real time. The system does not simply show what is in front of the camera; instead, it transforms the live input through what the neural network has already learned.
 
@@ -257,7 +257,7 @@ However, in the second experiment, I incorporated contrast and colour difference
 
 ![image](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/images/e6eccf27-612f-4625-8f82-c1b49242e176.png)
 
-[▶ Watch video](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/videos/b5c4dc1f-3e8c-49c5-a54c-1f72a448dce7.mp4)
+
 
 
 ````
@@ -283,19 +283,14 @@ By comparing the training results of the two experiments, I found that the four-
 
 **1, The training process of the Blue System classifier.**
 
-[▶ Watch video](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/videos/9289c166-1179-4a3d-8e51-362c2c3bf10f.mp4)
+<img width="2879" height="1288" alt="image" src="https://github.com/user-attachments/assets/cc5972e2-a595-4e89-968b-b3eac5c2c56b" />
+
 
 **2, After training the classifier, I carried out a live webcam test to check whether the trained model could process real-time camera input and produce classification results.**
 
 ![image](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/images/6c2f9787-5aac-4950-9ea9-21111a6e3efd.png)
 
 ![image](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/images/3ed7be8e-ed84-45fd-b8bd-070e6ddb1f81.png)
-
-
-[▶ Watch video](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/videos/48a1f07f-fc25-4569-a513-2f4319946ea0.mp4)
-
-
-
 
 
 **3, After confirming that the trained Blue System model could work with live webcam input, I then connected this classifier back into the main project interface. This allowed the Blue System result to influence the final visual output, rather than remaining as a separate testing page.**
@@ -349,7 +344,7 @@ In the second experiment, I added contrast and colour difference and trained the
 
 ![image](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/images/ed759be9-c81a-42ad-a349-3b9ac0012fec.png)
 
-[▶ Watch video](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/videos/5366f5da-6264-4cac-a575-b98ec801a831.mp4)
+
 
 
 By comparing the training results of the two experiments, I found that, similar to the Blue System, the four-feature version was more stable. Experiment 1 used only brightness and saturation, with a final loss of 0.1002. After adding contrast and colour difference in Experiment 2, the final loss decreased to 0.0763. Therefore, I chose brightness, saturation, contrast and colour difference as the input features for the Yellow System classifier.
@@ -365,7 +360,8 @@ By comparing the training results of the two experiments, I found that, similar 
 
 **The training process of the Yellow System classifier (same as blue ststem tech)**
 
-[▶ Watch video](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/videos/60daae56-23e9-4439-a2ea-5730e0e07c30.mp4)
+<img width="2878" height="1247" alt="image" src="https://github.com/user-attachments/assets/64d2b9e7-ebcc-4666-8a60-e07447629605" />
+
 
 ![image](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/images/09efdc41-9f48-4185-a35d-64843bb41716.png)
 
