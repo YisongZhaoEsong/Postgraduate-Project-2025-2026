@@ -9,7 +9,7 @@ It organizes my project repositories into two groups:
 
 ## Project Structure
 
-| Project | Direction | Casebook | Engineering Files |
+| Project | Direction | Casebook | Engineering Files | Video |
 | --- | --- | --- | --- | --- |
 | Ferrum Resonance | Computer Graphics & Interaction Design; Embodied Interaction; Immersive Cultural Experience | [Ferrum-Resonance-Casebook](Project-Casebooks/Ferrum-Resonance-Casebook) | Not included | 
 | Symmetry Kingdom | Embodied & Gamified Interaction Design; Immersive Interface Design | [Symmetry-Kingdom-Casebook](Project-Casebooks/Symmetry-Kingdom-Casebook) | [Symmetry-Kingdom](Engineering-Files/Symmetry-Kingdom) |
