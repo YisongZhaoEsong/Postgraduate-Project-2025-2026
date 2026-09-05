@@ -1,4 +1,4 @@
-## Symmetry Kingdom Casebook - Teamwork
+## Symmetry Kingdom Casebook - Group Prototyping & Individual Iteration
 
 ***Embodied Interaction； Gamified Experiences； Interactive Systems***
 
