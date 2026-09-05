@@ -1,6 +1,6 @@
 # Ferrum Resonance Casebook
 
-***The final project casebook presentation and demonstration video are currently in production.***
+***https://youtu.be/TNqmB3zOHss***
 
 ## Design Overview
 
