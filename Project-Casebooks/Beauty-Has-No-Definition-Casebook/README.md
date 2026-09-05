@@ -86,7 +86,7 @@ This stage helped me move from a critical concept of algorithmic beauty to a mor
 
 ### Case Study 1
 
-https://git.arts.ac.uk/user-attachments/assets/4d2dea39-8bcc-4454-aff2-68c7c6e2d5ae
+[▶ Watch video](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/videos/4d2dea39-8bcc-4454-aff2-68c7c6e2d5ae.mp4)
 
 The first case study is Memo Akten’s *Learning to See*. This work uses machine learning and a live camera feed to reinterpret real-world objects in real time. The system does not simply show what is in front of the camera; instead, it transforms the live input through what the neural network has already learned.
 
@@ -257,7 +257,7 @@ However, in the second experiment, I incorporated contrast and colour difference
 
 ![image](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/images/e6eccf27-612f-4625-8f82-c1b49242e176.png)
 
-https://git.arts.ac.uk/user-attachments/assets/b5c4dc1f-3e8c-49c5-a54c-1f72a448dce7
+[▶ Watch video](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/videos/b5c4dc1f-3e8c-49c5-a54c-1f72a448dce7.mp4)
 
 
 ````
@@ -283,7 +283,7 @@ By comparing the training results of the two experiments, I found that the four-
 
 **1, The training process of the Blue System classifier.**
 
-https://git.arts.ac.uk/user-attachments/assets/9289c166-1179-4a3d-8e51-362c2c3bf10f
+[▶ Watch video](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/videos/9289c166-1179-4a3d-8e51-362c2c3bf10f.mp4)
 
 **2, After training the classifier, I carried out a live webcam test to check whether the trained model could process real-time camera input and produce classification results.**
 
@@ -292,7 +292,7 @@ https://git.arts.ac.uk/user-attachments/assets/9289c166-1179-4a3d-8e51-362c2c3bf
 ![image](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/images/3ed7be8e-ed84-45fd-b8bd-070e6ddb1f81.png)
 
 
-https://git.arts.ac.uk/user-attachments/assets/48a1f07f-fc25-4569-a513-2f4319946ea0
+[▶ Watch video](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/videos/48a1f07f-fc25-4569-a513-2f4319946ea0.mp4)
 
 
 
@@ -349,7 +349,7 @@ In the second experiment, I added contrast and colour difference and trained the
 
 ![image](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/images/ed759be9-c81a-42ad-a349-3b9ac0012fec.png)
 
-https://git.arts.ac.uk/user-attachments/assets/5366f5da-6264-4cac-a575-b98ec801a831
+[▶ Watch video](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/videos/5366f5da-6264-4cac-a575-b98ec801a831.mp4)
 
 
 By comparing the training results of the two experiments, I found that, similar to the Blue System, the four-feature version was more stable. Experiment 1 used only brightness and saturation, with a final loss of 0.1002. After adding contrast and colour difference in Experiment 2, the final loss decreased to 0.0763. Therefore, I chose brightness, saturation, contrast and colour difference as the input features for the Yellow System classifier.
@@ -365,7 +365,7 @@ By comparing the training results of the two experiments, I found that, similar 
 
 **The training process of the Yellow System classifier (same as blue ststem tech)**
 
-https://git.arts.ac.uk/user-attachments/assets/60daae56-23e9-4439-a2ea-5730e0e07c30
+[▶ Watch video](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/videos/60daae56-23e9-4439-a2ea-5730e0e07c30.mp4)
 
 ![image](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/images/09efdc41-9f48-4185-a35d-64843bb41716.png)
 
@@ -375,7 +375,7 @@ https://git.arts.ac.uk/user-attachments/assets/60daae56-23e9-4439-a2ea-5730e0e07
 
 ![image](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/images/c220fe35-c3c6-445c-9921-f5880f4c7174.png)
 
-https://git.arts.ac.uk/user-attachments/assets/fa7ae847-0d26-47c9-87cd-7ca9f3bb846d
+[▶ Watch video](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/videos/fa7ae847-0d26-47c9-87cd-7ca9f3bb846d.mp4)
 
 
 When the Yellow System classifies the live camera image as not_natural, meaning that the result does not match its natural beauty preset, the system triggers a corresponding collage-style visual replacement and replaces the user’s facial features.
@@ -398,7 +398,7 @@ It is important to note that not_natural does not mean that the user is “not b
 
 **In the final interface, I also incorporated UI design elements, including textual information and visual cues, to help users understand how to interact with the system and interpret the data and classification results it presents. Through this approach, users can better understand both the functionality of the system and the core ideas explored by the project. I hope this work is not only a trained machine learning model, but also an interactive experience prototype that encourages users to think critically.**
 
-https://git.arts.ac.uk/user-attachments/assets/1b158009-80ab-4017-aee3-6778866d39d0
+[▶ Watch video](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/videos/1b158009-80ab-4017-aee3-6778866d39d0.mp4)
 
 ### Technically, the Black System uses FaceMesh for facial feature detection and rule-based judgement, while the Blue System and Yellow System use the trained ml5 neuralNetwork classification models. After integration, users can stand in front of the camera and use keys 1, 2 and 3 to change the order of the three systems in the interface, allowing them to see how the same face can be reinterpreted by different aesthetic presets.
 
