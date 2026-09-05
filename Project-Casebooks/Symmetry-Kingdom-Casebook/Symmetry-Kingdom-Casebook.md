@@ -237,13 +237,14 @@ By 3D printing the shell and integrating a strap structure, we created a wearabl
 <img width="2276" height="1280" alt="image" src="https://github.com/user-attachments/assets/442a8699-6013-41f2-bc57-6f41ede834ff" />
 
 
-## 💥 User test
+## 💥 User test （Individuals work)
 
 ### Testing Plan
 
 **Before testing, I planned to test the game with five participants**
 
-![image](https://git.arts.ac.uk/user-attachments/assets/a8ffbebe-07c2-4b03-a688-e7ce8901b852)
+<img width="1788" height="480" alt="897dbd630e8c0e9fdd706a2bd7210bf0" src="https://github.com/user-attachments/assets/ce988d57-0169-4375-a3cd-b1e10afe1a77" />
+
 
 This mix offered familiar and objective perspectives.
 
@@ -268,9 +269,11 @@ The semi-structured interview helped me ask key questions while keeping the conv
 
 ### Testing Observations
 
-![image](https://git.arts.ac.uk/user-attachments/assets/abfdc6a3-4ab7-4b10-afbe-9454ef7203d9)
+<img width="1682" height="472" alt="c44db258acbee281e3ac584b8c7782eb" src="https://github.com/user-attachments/assets/e4192547-f788-4f50-b063-806f5b7cd30e" />
 
-![image](https://git.arts.ac.uk/user-attachments/assets/0d433caa-181e-48ab-b824-034b0252fd13)
+
+<img width="1687" height="568" alt="image" src="https://github.com/user-attachments/assets/7c6c7e38-0786-47ae-ae9d-5ab9d6c97277" />
+
 
 
 
@@ -282,11 +285,14 @@ The semi-structured interview helped me ask key questions while keeping the conv
 | Participant D: a friend outside UAL CCI                                 | She had a smooth experience at the beginning, but as more rule changes appeared, her understanding of the rules became less stable.         | She felt that the obstacle should only appear after being introduced by the King’s command, otherwise it became confusing. She also mentioned that sometimes she could not remember the current rule, and that the Arduino wearable device felt slightly delayed. |
 | Participant E: a friend outside UAL CCI                                 | Because this was a rule-changing Pong game, I observed that he also needed time to adapt at the beginning.                                  | He noticed the rule changes and understood the meaning of power behind them. However, he felt that there were too many changing elements, which created an information load and made it difficult to remember the current rule.                                   |
 
-![image](https://git.arts.ac.uk/user-attachments/assets/b38fb7f3-ad12-443f-ac07-e7cc70c780ce)
+<img width="1693" height="468" alt="image" src="https://github.com/user-attachments/assets/1f1ddef2-6974-481f-8972-c1a9971d3090" />
 
-![image](https://git.arts.ac.uk/user-attachments/assets/2cfea94f-bb91-47f3-8952-66d2c6fdce93)
 
-![image](https://git.arts.ac.uk/user-attachments/assets/0e49fb56-1605-4074-9dc6-7fe71ed45292)
+<img width="1688" height="472" alt="image" src="https://github.com/user-attachments/assets/4366fdcb-f065-4987-abd6-251ba2400973" />
+
+
+<img width="1834" height="620" alt="image" src="https://github.com/user-attachments/assets/b109fac9-acb6-4202-b8f8-da4b4529fedf" />
+
 
 
 **Overall, testing showed that participants could understand the project’s core idea: rules can be made and changed by those with power. However, interruptions, sudden rule changes, early game over and too much rule information weakened the experience. Therefore, I needed to make the gameplay flow smoother and the rule reminders clearer, so players could better experience and understand the work. Based on this, I made the following changes.**
