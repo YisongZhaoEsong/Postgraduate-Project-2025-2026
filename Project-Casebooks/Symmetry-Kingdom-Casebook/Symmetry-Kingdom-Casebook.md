@@ -8,6 +8,7 @@ During the project development process, our team primarily completed the code by
 ## Project Overview
 
 **Group Prototype Video: https://youtu.be/2ZF1r5V5jsI**
+
 **Individual Iteration Research Video: https://youtu.be/6HZ5dLORHIE**
 
 Our team members include (Qiuye Zhu, Yisong Zhao, and Yifei Ni), and we decided to modify Pong.
