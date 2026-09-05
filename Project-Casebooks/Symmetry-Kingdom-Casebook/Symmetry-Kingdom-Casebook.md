@@ -7,7 +7,8 @@ During the project development process, our team primarily completed the code by
 
 ## Project Overview
 
-***Video Display - https://youtu.be/2ZF1r5V5jsI***
+**Group Prototype Video: https://youtu.be/2ZF1r5V5jsI**
+**Individual Iteration Research Video: https://youtu.be/6HZ5dLORHIE**
 
 Our team members include (Qiuye Zhu, Yisong Zhao, and Yifei Ni), and we decided to modify Pong.
 In this project, we place the classic game Pong within a narrative framework titled “Symmetry Kingdom” and reconstruct its control logic based on this framework.
