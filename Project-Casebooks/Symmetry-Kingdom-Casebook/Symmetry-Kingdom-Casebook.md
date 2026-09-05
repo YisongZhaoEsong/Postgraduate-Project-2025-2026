@@ -237,14 +237,78 @@ By 3D printing the shell and integrating a strap structure, we created a wearabl
 <img width="2276" height="1280" alt="image" src="https://github.com/user-attachments/assets/442a8699-6013-41f2-bc57-6f41ede834ff" />
 
 
-##  User feedback
-During the demo, many students played the game and provided feedback:
-1. The gameplay mechanics felt somewhat confusing (so we changed the original approach of no in-game prompts and sudden rule changes to include UI prompts before rule adjustments, improving the player experience).
-2. The ball's movement trajectory was too fast (we've adjusted the relevant parameters by modifying the ball's maximum speed value:
-public float maxBallSpeed = 30f; changed to public float maxBallSpeed = 20f;)
-3. Some students didn't fully grasp our original game concept (initially, our theory centered on whether rules are inherently correct? We then refined the game's core idea, shifting from the divergent concept that rules can be altered to the convergent focus that rule creation and modification are often closely tied to the interests and intentions of those in power and decision-makers).
+## 💥 User test
 
-##  Critical reflection: 
+### Testing Plan
+
+**Before testing, I planned to test the game with five participants**
+
+![image](https://git.arts.ac.uk/user-attachments/assets/a8ffbebe-07c2-4b03-a688-e7ce8901b852)
+
+This mix offered familiar and objective perspectives.
+
+**Then, I plan to use informal observation and semi-structured interviews.**
+
+| Observation                                          | Semi-structured Interview                                                          |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| 1. Whether they knew how to control the game         | 1. Did you notice any changes to the rules during the game?                        |
+| 2. Which parts of the game caused frequent confusion | 2. What do you think the King or the rule changes represent?                       |
+| 3. At what stage they failed or chose to quit        | 3. Which part of the experience felt confusing, frustrating, or could be improved? |
+|                                                      | 4. Then free to talk                                                               |
+
+**Why I use this two methods:**
+
+They helped me understand the user experience from different angles. 
+
+Observation allowed me to record real-time behaviour. This was important because participants might forget details after playing. 
+
+The semi-structured interview helped me ask key questions while keeping the conversation natural. If the interview structure was too rigid, participants might feel bored or less willing to share honestly, which would make it harder to collect useful feedback.
+
+**I will observe participants on site and record my observations through written notes. For the interviews, I will audio-record the conversations with participants’ permission, so I can translate, review and listen back to their responses later.**
+
+### Testing Observations
+
+![image](https://git.arts.ac.uk/user-attachments/assets/abfdc6a3-4ab7-4b10-afbe-9454ef7203d9)
+
+![image](https://git.arts.ac.uk/user-attachments/assets/0d433caa-181e-48ab-b824-034b0252fd13)
+
+
+
+| Tester                                                                  | What I observed                                                                                                                             | Feedback from the interview                                                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Participant A: a local friend who tested the game during the exhibition | After a short trial, he understood the forearm control, but when the King’s command appeared, he paused, and the gameplay felt interrupted. | He noticed the rule changes and, after reading the project description, understood the connection between the King and real-world rule-makers. However, the pause made the gameplay feel less continuous.                                                         |
+| Participant B: an exhibition visitor                                    | At first, he was not fully used to the wearable control, and after the first rule change, he quickly lost points and lost the game.         | He felt that the rule changes happened too quickly, before he had fully adapted, and that the game ended too early. He also mentioned that the Arduino wearable device felt slightly delayed.                                                                     |
+| Participant C: one member of a married couple at the exhibition         | He reached game over quite early, but still showed interest in continuing the experience.                                                   | He understood that the King was controlling the rules and could connect this to real-world rule-makers. However, he also felt that ending too early reduced the chance to experience later rule changes.                                                          |
+| Participant D: a friend outside UAL CCI                                 | She had a smooth experience at the beginning, but as more rule changes appeared, her understanding of the rules became less stable.         | She felt that the obstacle should only appear after being introduced by the King’s command, otherwise it became confusing. She also mentioned that sometimes she could not remember the current rule, and that the Arduino wearable device felt slightly delayed. |
+| Participant E: a friend outside UAL CCI                                 | Because this was a rule-changing Pong game, I observed that he also needed time to adapt at the beginning.                                  | He noticed the rule changes and understood the meaning of power behind them. However, he felt that there were too many changing elements, which created an information load and made it difficult to remember the current rule.                                   |
+
+![image](https://git.arts.ac.uk/user-attachments/assets/b38fb7f3-ad12-443f-ac07-e7cc70c780ce)
+
+![image](https://git.arts.ac.uk/user-attachments/assets/2cfea94f-bb91-47f3-8952-66d2c6fdce93)
+
+![image](https://git.arts.ac.uk/user-attachments/assets/0e49fb56-1605-4074-9dc6-7fe71ed45292)
+
+
+**Overall, testing showed that participants could understand the project’s core idea: rules can be made and changed by those with power. However, interruptions, sudden rule changes, early game over and too much rule information weakened the experience. Therefore, I needed to make the gameplay flow smoother and the rule reminders clearer, so players could better experience and understand the work. Based on this, I made the following changes.**
+
+
+### Revision Plan
+
+**Based on user feedback, I made the following six changes.**
+
+| Testing Feedback                                                | My Revision                                                                                                                                                     |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rule changes happened too suddenly.                             | Added 30 seconds of normal Pong and longer transition timing.                                                                                                   |
+| Users forgot active rules.                                      | Added a small rule reminder on screen.                                                                                                                          |
+| Rule messages interrupted gameplay.                             | Changed click-to-continue into a 5-second automatic pause.                                                                                                      |
+| Users lost too early but still wanted to continue playing.      | Added a continue-or-quit choice with one extra life.                                                                                                            |
+| Obstacle appeared too early and caused confusion.               | Hid the obstacle until the King’s final command.                                                                                                                |
+| Some users felt a slight delay in the Arduino wearable control. | Investigated the issue and found that the delay was caused by a hardware limitation. Therefore, no change was made in this iteration. |
+
+**Overall**, the testing showed that participants could understand the project’s **core concept**: rules are made and changed by those in power. However, interruptions during gameplay, difficulty adapting to rule changes, early game over, and unclear rule information all weakened the overall experience. When players felt anxious or overloaded, they focused more on surviving the game than reflecting on its deeper meaning. Therefore, I needed to improve the **smoothness of the gameplay flow** and make the **rule reminders** clearer, so players could better experience, so that they can understand and reflect my research question more deeply.
+
+Through this process, I realised that **practice-based research** should respond to users’ real experiences, rather than only following the designer’s original intention. We should not design only from the designer’s perspective, but practise **human-centred design**, using design methods to translate user feedback into specific improvements within the interactive work. By improving the **interactive experience**, players can understand the research question through a more immersive process. This kind of **bodily participation** and **gamified experience** can leave a stronger impression than simply explaining the research question through text or video, and can encourage deeper reflection.
+
 
 ##  File: 
 · Arduino File: https://git.arts.ac.uk/y-ni0320251/TeamWork-CCI/blob/main/CONTROLLLLLLLLLLnocite/CONTROLLLLLLLLLLnocite.ino \
