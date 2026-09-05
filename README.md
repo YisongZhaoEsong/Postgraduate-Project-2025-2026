@@ -16,6 +16,7 @@ It organizes my project repositories into two groups:
 | Hidden Bites | Critical Game Interaction; UX/UI Design | [Hidden-Bites-Casebook](Project-Casebooks/Hidden-Bites-Casebook) | [Hidden-Bites](Engineering-Files/Hidden-Bites) | https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3e1229f2-9f33-45af-9d1a-b412015a76f4 |
 | When Time Leaks | Interactive Installation; Embodied Media Experience | [When-Time-Leaks](Project-Casebooks/When-Time-Leaks) | Not included | https://www.youtube.com/watch?v=NJDFdZ1kznE |
 | Beauty Has No Definition | Human–AI Interaction; Supervised Learning; Gamified Interaction | [Beauty-Has-No-Definition-Casebook](Project-Casebooks/Beauty-Has-No-Definition-Casebook) | [Beauty-Has-No-Definition](Engineering-Files/Beauty-Has-No-Definition) | https://www.youtube.com/watch?v=q7ub6Pivkgg |
+| Filter Bubble | Embodied & Gamified Interaction; Spatial Gesture Interaction | [Filter-Bubble-Casebook](Project-Casebooks/Filter-Bubble-Casebook) | [Filter-Bubble](Engineering-Files/Filter-Bubble) | https://www.youtube.com/watch?v=OSmqiIDeZd0 |
 
 ## Folders
 
