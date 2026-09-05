@@ -8,3 +8,4 @@ This folder links to the technical and implementation repositories for each post
 | --- | --- |
 | Symmetry Kingdom | [Symmetry-Kingdom](Symmetry-Kingdom) |
 | Hidden Bites | [Hidden-Bites](Hidden-Bites) |
+| Beauty Has No Definition | [Beauty-Has-No-Definition](Beauty-Has-No-Definition) |

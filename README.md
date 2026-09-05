@@ -15,6 +15,7 @@ It organizes my project repositories into two groups:
 | Symmetry Kingdom | Embodied & Gamified Interaction Design; Immersive Interface Design | [Symmetry-Kingdom-Casebook](Project-Casebooks/Symmetry-Kingdom-Casebook) | [Symmetry-Kingdom](Engineering-Files/Symmetry-Kingdom) |
 | Hidden Bites | Critical Game Interaction; UX/UI Design | [Hidden-Bites-Casebook](Project-Casebooks/Hidden-Bites-Casebook) | [Hidden-Bites](Engineering-Files/Hidden-Bites) |
 | When Time Leaks | Interactive Installation; Embodied Media Experience | [When-Time-Leaks](Project-Casebooks/When-Time-Leaks) | Not included |
+| Beauty Has No Definition | Human–AI Interaction; Supervised Learning; Gamified Interaction | [Beauty-Has-No-Definition-Casebook](Project-Casebooks/Beauty-Has-No-Definition-Casebook) | [Beauty-Has-No-Definition](Engineering-Files/Beauty-Has-No-Definition) |
 
 ## Folders
 

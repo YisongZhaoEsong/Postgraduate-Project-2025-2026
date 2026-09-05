@@ -10,3 +10,4 @@ This folder links to the written casebook documentation for each postgraduate pr
 | Hidden Bites | Critical Game Interaction; UX/UI Design | [Hidden-Bites-Casebook](Hidden-Bites-Casebook) |
 | When Time Leaks | Interactive Installation; Embodied Media Experience | [When-Time-Leaks](When-Time-Leaks) |
 | Ferrum Resonance | Computer Graphics & Interaction Design; Embodied & multisensory Interaction; Immersive Cultural Experience | [Ferrum-Resonance-Casebook](Ferrum-Resonance-Casebook) |
+| Beauty Has No Definition | Human–AI Interaction; Supervised Learning; Gamified Interaction | [Beauty-Has-No-Definition-Casebook](Beauty-Has-No-Definition-Casebook) |
