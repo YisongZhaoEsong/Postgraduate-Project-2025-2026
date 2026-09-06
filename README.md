@@ -11,7 +11,7 @@ It organizes my project repositories into two groups:
 
 | Project | Direction | Casebook | Engineering Files | Video |
 | --- | --- | --- | --- | --- |
-| Ferrum Resonance | Computer Graphics & Interaction Design; Embodied Interaction; Immersive Cultural Experience | [Ferrum-Resonance-Casebook](Project-Casebooks/Ferrum-Resonance-Casebook) | Not included | https://www.youtube.com/watch?v=TNqmB3zOHss |
+| Ferrum Resonance | Computer Graphics & Mutisensory Interaction Design; Embodied Interaction; Immersive Cultural Experience | [Ferrum-Resonance-Casebook](Project-Casebooks/Ferrum-Resonance-Casebook) | Not included | https://www.youtube.com/watch?v=TNqmB3zOHss |
 | Symmetry Kingdom | Embodied & Gamified Interaction Design; Immersive Interface Design | [Symmetry-Kingdom-Casebook](Project-Casebooks/Symmetry-Kingdom-Casebook) | [Symmetry-Kingdom](Engineering-Files/Symmetry-Kingdom) | Group Prototype Video: https://youtu.be/2ZF1r5V5jsI  Individual Iteration Research Video: https://youtu.be/6HZ5dLORHIE |
 | Hidden Bites | Critical Game Interaction; UX/UI Design | [Hidden-Bites-Casebook](Project-Casebooks/Hidden-Bites-Casebook) | [Hidden-Bites](Engineering-Files/Hidden-Bites) | https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3e1229f2-9f33-45af-9d1a-b412015a76f4 |
 | When Time Leaks | Interactive Installation; Embodied Media Experience | [When-Time-Leaks](Project-Casebooks/When-Time-Leaks) | Not included | https://www.youtube.com/watch?v=NJDFdZ1kznE |
