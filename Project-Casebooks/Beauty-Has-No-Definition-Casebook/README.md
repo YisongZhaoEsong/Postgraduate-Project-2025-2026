@@ -1,5 +1,23 @@
 # EMI 2026 Final Project Weblog
 
+**Video:** ***https://youtu.be/q7ub6Pivkgg*** **Including the interaction method and the code running & tech**
+
+<img width="1852" height="1012" alt="image" src="https://github.com/user-attachments/assets/82b4a9dd-bf9c-4247-9cee-0f6c1e9afebc" />
+
+
+<img width="1852" height="1012" alt="image" src="https://github.com/user-attachments/assets/48a02f5f-2b56-47b7-a2d3-285a3d9e1ab1" />
+
+
+## Project Introduction
+
+**Beauty Has No Definition** is an interactive machine learning prototype created using p5.js, ml5.js FaceMesh and ml5 neuralNetwork classifiers.
+
+The project consists of three aesthetic systems: the Black System, the Yellow System and the Blue System. The Black System defines beauty through structured and three-dimensional facial features, such as sharp contours, larger eyes and a higher nose bridge. The Yellow System defines beauty through naturalness, softness and a minimalist visual style. The Blue System defines beauty through individuality, expression, colour and emotional presence.
+
+Users stand in front of a live camera and can press keys 1, 2 and 3 to change the order of the three systems. If a system determines that a particular facial feature (the eyes, nose or mouth) does not match its aesthetic preset, it replaces that part of the face with a collage image that represents what the system considers beautiful. If the features fit the system’s standard, no replacement will be applied. Through the interaction, users gradually realise that different systems can have completely different definitions and judgements of the same person's facial features.
+
+Through this project, I hope to show that beauty should not be defined by a single algorithm or by other people's standards. Everyone has different ideas about beauty, and we should be able to form our own understanding of it. Beauty has no definition.
+
 ## 1, 🟥 14 May - 15 May Research - Theme Selection
 
 ### By the end of this stage, I had established the main direction of my project. 
