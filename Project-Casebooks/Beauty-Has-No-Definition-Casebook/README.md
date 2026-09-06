@@ -283,7 +283,9 @@ By comparing the training results of the two experiments, I found that the four-
 
 **1, The training process of the Blue System classifier.**
 
-<img width="2879" height="1288" alt="image" src="https://github.com/user-attachments/assets/cc5972e2-a595-4e89-968b-b3eac5c2c56b" />
+<img width="2754" height="1189" alt="image" src="https://github.com/user-attachments/assets/9c1957d9-fc6a-47fd-b5cf-3b4a363429ab" />
+
+
 
 
 **2, After training the classifier, I carried out a live webcam test to check whether the trained model could process real-time camera input and produce classification results.**
@@ -371,7 +373,6 @@ By comparing the training results of the two experiments, I found that, similar 
 
 ![image](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/images/c220fe35-c3c6-445c-9921-f5880f4c7174.png)
 
-[▶ Watch video](../../Engineering-Files/Beauty-Has-No-Definition/casebook-media/videos/fa7ae847-0d26-47c9-87cd-7ca9f3bb846d.mp4)
 
 
 When the Yellow System classifies the live camera image as not_natural, meaning that the result does not match its natural beauty preset, the system triggers a corresponding collage-style visual replacement and replaces the user’s facial features.
