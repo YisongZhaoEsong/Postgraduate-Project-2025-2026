@@ -5,7 +5,8 @@
 <img width="1852" height="1012" alt="image" src="https://github.com/user-attachments/assets/82b4a9dd-bf9c-4247-9cee-0f6c1e9afebc" />
 
 
-<img width="1852" height="1012" alt="image" src="https://github.com/user-attachments/assets/48a02f5f-2b56-47b7-a2d3-285a3d9e1ab1" />
+<img width="1833" height="1017" alt="image" src="https://github.com/user-attachments/assets/0bb91f8f-fb3a-41fe-b4a9-70414ac3e824" />
+
 
 
 ## Project Introduction
